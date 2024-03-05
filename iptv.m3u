@@ -472,8 +472,6 @@ https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660
 https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
 #EXTINF:-1,tvg-id="武漢經濟" tvg-name="武漢經濟" tvg-logo="https://epg.112114.eu.org/logo/武漢經濟.png" group-title="湖北",武漢經濟
 https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8
-#EXTINF:-1,tvg-id="江夏新闻" tvg-name="江夏新闻" tvg-logo="https://epg.112114.eu.org/logo/江夏新闻.png" group-title="湖北",江夏新闻
-https://epg.pw/stream/b721fd17d5166827b490ce21270dce5dd9736ae6e5fc2b5795c609252f252d01.m3u8
 #EXTINF:-1,tvg-id="武汉生活" tvg-name="武汉生活" tvg-logo="https://epg.112114.eu.org/logo/武汉生活.png" group-title="湖北",武汉生活
 http://stream.appwuhan.com/3tzb/sd/live.m3u8
 
