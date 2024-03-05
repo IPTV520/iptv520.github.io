@@ -966,7 +966,7 @@ rtmp://f13h.mine.nu/sat/tv701
 https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
 #EXTINF:-1,tvg-id="镜新闻台" tvg-name="镜新闻台" tvg-logo="https://epg.112114.eu.org/logo/镜新闻台.png" group-title="台湾",镜新闻台
 https://epg.pw/stream/69c1070f6f9f3c3b09a615e5f27c20850979721087bc150aaecec0622ada6cb2.ctv
-#EXTINF:-1,tvg-id="镜新闻台" tvg-name="镜新闻台" tvg-logo="https://epg.112114.eu.org/logo/镜新闻台.png" group-title="台湾",镜新闻台
+#EXTINF:-1,tvg-id="壹新闻台" tvg-name="壹新闻台" tvg-logo="https://epg.112114.eu.org/logo/壹新闻台.png" group-title="台湾",壹新闻台
 http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
 #EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="台湾",非凡新闻台
 http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
