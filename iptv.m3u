@@ -431,7 +431,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/mai
 #EXTINF:-1 tvg-id="SX05" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="山西",山西文体生活
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi5.m3u8
 
-#湖北/7个频道
+#湖北
 #EXTINF:-1 tvg-id="HB01" tvg-name="湖北综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei1.png" group-title="湖北",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 tvg-id="HB02" tvg-name="湖北影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei2.png" group-title="湖北",湖北影视
@@ -446,6 +446,52 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 #EXTINF:-1 tvg-id="HB07" tvg-name="湖北垄上" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei7.png" group-title="湖北",湖北垄上
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
+#EXTINF:-1,tvg-id="十堰新闻" tvg-name="十堰新闻" tvg-logo="https://epg.112114.eu.org/logo/十堰新闻.png" group-title="湖北",十堰新闻
+http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+#EXTINF:-1,tvg-id="十堰经济" tvg-name="十堰经济" tvg-logo="https://epg.112114.eu.org/logo/十堰经济.png" group-title="湖北",十堰经济
+https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+#EXTINF:-1,tvg-id="宜昌综合" tvg-name="宜昌综合" tvg-logo="https://epg.112114.eu.org/logo/宜昌综合.png" group-title="湖北",宜昌综合
+https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
+#EXTINF:-1,tvg-id="三峡旅游" tvg-name="三峡旅游" tvg-logo="https://epg.112114.eu.org/logo/三峡旅游.png" group-title="湖北",三峡旅游
+https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
+#EXTINF:-1,tvg-id="荆门新闻" tvg-name="荆门新闻" tvg-logo="https://epg.112114.eu.org/logo/荆门新闻.png" group-title="湖北",荆门新闻
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+#EXTINF:-1,tvg-id="荆门教育" tvg-name="荆门教育" tvg-logo="https://epg.112114.eu.org/logo/荆门教育.png" group-title="湖北",荆门教育
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1,tvg-id="江夏新闻" tvg-name="江夏新闻" tvg-logo="https://epg.112114.eu.org/logo/江夏新闻.png" group-title="湖北",江夏新闻
+http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+#EXTINF:-1,tvg-id="江夏新闻" tvg-name="江夏新闻" tvg-logo="https://epg.112114.eu.org/logo/江夏新闻.png" group-title="湖北",江夏新闻
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1,tvg-id="麻城综合" tvg-name="麻城综合" tvg-logo="https://epg.112114.eu.org/logo/麻城综合.png" group-title="湖北",麻城综合
+http://119.36.30.199:8888/mctv1.m3u8
+#EXTINF:-1,tvg-id="武漢教育" tvg-name="武漢教育" tvg-logo="https://epg.112114.eu.org/logo/武漢教育.png" group-title="湖北",武漢教育
+https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
+#EXTINF:-1,tvg-id="武漢新聞綜合" tvg-name="武漢新聞綜合" tvg-logo="https://epg.112114.eu.org/logo/武漢新聞綜合.png" group-title="湖北",武漢新聞綜合
+https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
+#EXTINF:-1,tvg-id="武漢經濟" tvg-name="武漢經濟" tvg-logo="https://epg.112114.eu.org/logo/武漢經濟.png" group-title="湖北",武漢經濟
+https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8
+#EXTINF:-1,tvg-id="江夏新闻" tvg-name="江夏新闻" tvg-logo="https://epg.112114.eu.org/logo/江夏新闻.png" group-title="湖北",江夏新闻
+https://epg.pw/stream/b721fd17d5166827b490ce21270dce5dd9736ae6e5fc2b5795c609252f252d01.m3u8
+#EXTINF:-1,tvg-id="武汉生活" tvg-name="武汉生活" tvg-logo="https://epg.112114.eu.org/logo/武汉生活.png" group-title="湖北",武汉生活
+http://stream.appwuhan.com/3tzb/sd/live.m3u8
+
+#广东
+#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.eu.org/logo/深圳都市.png" group-title="广东",深圳都市
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.eu.org/logo/深圳都市.png" group-title="广东",深圳都市
+http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+#EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1,tvg-id="广东珠江「IPV6」" tvg-name="广东珠江「IPV6」" tvg-logo="https://epg.112114.eu.org/logo/广东珠江「IPV6」.png" group-title="广东",广东珠江「IPV6」
+http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503220240113215226046282
+#EXTINF:-1,tvg-id="广东珠江「IPV6」" tvg-name="广东珠江「IPV6」" tvg-logo="https://epg.112114.eu.org/logo/广东珠江「IPV6」.png" group-title="广东",广东珠江「IPV6」
+http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503720240113214942640175
+#EXTINF:-1,tvg-id="广东珠江「IPV6」" tvg-name="广东珠江「IPV6」" tvg-logo="https://epg.112114.eu.org/logo/广东珠江「IPV6」.png" group-title="广东",广东珠江「IPV6」
+http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503820240109152105406385
+#EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
+https://epg.pw/stream/592621ffe44258b83e62314b2dd5dc16c7a7f480edc397be35ecf2e7a625c7b0.m3u8
+#EXTINF:-1,tvg-id="广东综合频道" tvg-name="广东综合频道" tvg-logo="https://epg.112114.eu.org/logo/广东综合频道.png" group-title="广东",广东综合频道
+https://epg.pw/stream/687454fe53b02a61036f7aa1b771a55b237a95494f74f83678aae8cc86009618.m3u8
 
 #浙江/7个频道
 #EXTINF:-1 tvg-id="ZJ01" tvg-name="浙江钱江都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png" group-title="浙江",浙江钱江都市
@@ -783,6 +829,8 @@ https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dc
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
 https://epg.pw/stream/5b471967247922dd626a252fb38f22a06be7e1a8c34e2b8c8cea7d4bc73a5c7f.ctv
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=6
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
