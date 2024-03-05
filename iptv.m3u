@@ -733,6 +733,8 @@ http://iptv.hiper25.com:7524/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%
 http://iptv.hiper25.com:7525/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
 http://iptv.hiper25.com:7526/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="港台",明珠台（广电版）
+http://iptv.hiper25.com:7522/upnp/channelstream/4135554395957947325%7C%E6%98%8E%E7%8F%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
 #EXTINF:-1,tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.eu.org/logo/有线新闻.png"group-title="港台",有线新闻
 https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="港台",无线新闻
