@@ -635,7 +635,7 @@ http://php.jdshipin.com:8880/chudian.php?id=hyzh
 http://php.jdshipin.com:8880/chudian.php?id=hygg
 #EXTINF:-1,tvg-id="连平台" tvg-name="连平台" tvg-logo="https://epg.112114.eu.org/logo/连平台.png" group-title="广东",连平台
 http://php.jdshipin.com:8880/chudian.php?id=lpzh
-#EXTINF:-1,tvg-id="惠东综合" tvg-name="惠东综合" tvg-logo="https://epg.112114.eu.org/logo/惠东综合.png" group-title="广东",惠东综合
+#EXTINF:-1,tvg-id="惠东" tvg-name="惠东" tvg-logo="https://epg.112114.eu.org/logo/惠东.png" group-title="广东",惠东综合
 http://php.jdshipin.com:8880/chudian.php?id=hdzh
 #EXTINF:-1,tvg-id="惠阳电视台" tvg-name="惠阳电视台" tvg-logo="https://epg.112114.eu.org/logo/惠阳电视台.png" group-title="广东",惠阳电视台
 http://php.jdshipin.com:8880/chudian.php?id=hytv
