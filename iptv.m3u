@@ -559,10 +559,14 @@ http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
 https://epg.pw/stream/592621ffe44258b83e62314b2dd5dc16c7a7f480edc397be35ecf2e7a625c7b0.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
-http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503220240113215226046282
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江高清
+http://61.140.201.112:8028/udp/239.77.0.1:5146
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江高清
+http://61.140.201.112:8028/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
+http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503220240113215226046282
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
 http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503720240113214942640175
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
@@ -573,6 +577,8 @@ https://epg.pw/stream/687454fe53b02a61036f7aa1b771a55b237a95494f74f83678aae8cc86
 http://php.jdshipin.com:8880/chudian.php?id=gdms
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.eu.org/logo/广东新闻.png" group-title="广东",广东新闻
 http://php.jdshipin.com:8880/chudian.php?id=gdxw
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.eu.org/logo/广东新闻.png" group-title="广东",广东新闻高清
+http://113.86.204.95:9999/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.eu.org/logo/广东少儿.png" group-title="广东",广东少儿
 http://php.jdshipin.com:8880/chudian.php?id=gdse
 #EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.eu.org/logo/广东少儿.png" group-title="广东",广东少儿
@@ -837,6 +843,8 @@ http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=192
 http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台
 https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（挂梯）
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/71040
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
 http://iptv.hiper25.com:7522/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
