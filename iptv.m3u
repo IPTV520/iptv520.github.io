@@ -625,6 +625,55 @@ http://php.jdshipin.com:8880/fstv.php?id=fsss
 https://livestream.oeeee.com/slive/17806.m3u8
 #EXTINF:-1,tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://live.fanmingming.com/tv/云浮文旅.png" group-title="广东",云浮文旅
 https://livestream.oeeee.com/slive/17807.m3u8
+#EXTINF:-1,tvg-id="阳江1" tvg-name="阳江1" tvg-logo="https://epg.112114.eu.org/logo/阳江1.png" group-title="广东",阳江1
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="阳江2" tvg-name="阳江2" tvg-logo="https://epg.112114.eu.org/logo/阳江2.png" group-title="广东",阳江2
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.112114.eu.org/logo/河源综合.png" group-title="广东",河源综合
+http://php.jdshipin.com:8880/chudian.php?id=hyzh
+#EXTINF:-1,tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://epg.112114.eu.org/logo/河源公共.png" group-title="广东",河源公共
+http://php.jdshipin.com:8880/chudian.php?id=hygg
+#EXTINF:-1,tvg-id="连平台" tvg-name="连平台" tvg-logo="https://epg.112114.eu.org/logo/连平台.png" group-title="广东",连平台
+http://php.jdshipin.com:8880/chudian.php?id=lpzh
+#EXTINF:-1,tvg-id="惠东综合" tvg-name="惠东综合" tvg-logo="https://epg.112114.eu.org/logo/惠东综合.png" group-title="广东",惠东综合
+http://php.jdshipin.com:8880/chudian.php?id=hdzh
+#EXTINF:-1,tvg-id="惠阳电视台" tvg-name="惠阳电视台" tvg-logo="https://epg.112114.eu.org/logo/惠阳电视台.png" group-title="广东",惠阳电视台
+http://php.jdshipin.com:8880/chudian.php?id=hytv
+#EXTINF:-1,tvg-id="开平综合" tvg-name="开平综合" tvg-logo="https://epg.112114.eu.org/logo/开平综合.png" group-title="广东",开平综合
+http://php.jdshipin.com:8880/chudian.php?id=kpzh
+#EXTINF:-1,tvg-id="开平生活" tvg-name="开平生活" tvg-logo="https://epg.112114.eu.org/logo/开平生活.png" group-title="广东",开平生活
+http://php.jdshipin.com:8880/chudian.php?id=kpsh
+#EXTINF:-1,tvg-id="广宁综合" tvg-name="广宁综合" tvg-logo="https://epg.112114.eu.org/logo/广宁综合.png" group-title="广东",广宁综合
+http://php.jdshipin.com:8880/chudian.php?id=gnzh
+#EXTINF:-1,tvg-id="化州综合" tvg-name="化州综合" tvg-logo="https://epg.112114.eu.org/logo/化州综合.png" group-title="广东",化州综合
+http://php.jdshipin.com:8880/chudian.php?id=hzzh
+#EXTINF:-1,tvg-id="鹤山综合" tvg-name="鹤山综合" tvg-logo="https://epg.112114.eu.org/logo/鹤山综合.png" group-title="广东",鹤山综合
+http://php.jdshipin.com:8880/chudian.php?id=hszh
+#EXTINF:-1,tvg-id="廉江综合" tvg-name="廉江综合" tvg-logo="https://epg.112114.eu.org/logo/廉江综合.png" group-title="广东",廉江综合
+http://php.jdshipin.com:8880/chudian.php?id=ljzh
+#EXTINF:-1,tvg-id="英德新闻综合" tvg-name="英德新闻综合" tvg-logo="https://epg.112114.eu.org/logo/英德新闻综合.png" group-title="广东",英德新闻综合
+http://php.jdshipin.com:8880/chudian.php?id=ydxw
+#EXTINF:-1,tvg-id="普宁综合" tvg-name="普宁综合" tvg-logo="https://epg.112114.eu.org/logo/普宁综合.png" group-title="广东",普宁综合
+http://php.jdshipin.com:8880/chudian.php?id=pnzh
+#EXTINF:-1,tvg-id="阳春综合" tvg-name="阳春综合" tvg-logo="https://epg.112114.eu.org/logo/阳春综合.png" group-title="广东",阳春综合
+http://php.jdshipin.com:8880/chudian.php?id=yczh
+#EXTINF:-1,tvg-id="怀集综合" tvg-name="怀集综合" tvg-logo="https://epg.112114.eu.org/logo/怀集综合.png" group-title="广东",怀集综合
+http://php.jdshipin.com:8880/chudian.php?id=hjzh
+#EXTINF:-1,tvg-id="信宜综合" tvg-name="信宜综合" tvg-logo="https://epg.112114.eu.org/logo/信宜综合.png" group-title="广东",信宜综合
+http://php.jdshipin.com:8880/chudian.php?id=xyzh
+#EXTINF:-1,tvg-id="台山台" tvg-name="台山台" tvg-logo="https://epg.112114.eu.org/logo/台山台.png" group-title="广东",台山台
+http://php.jdshipin.com:8880/chudian.php?id=tstv
+#EXTINF:-1,tvg-id="遂溪台" tvg-name="遂溪台" tvg-logo="https://epg.112114.eu.org/logo/遂溪台.png" group-title="广东",遂溪台
+http://php.jdshipin.com:8880/chudian.php?id=sxtv
+#EXTINF:-1,tvg-id="新会综合" tvg-name="新会综合" tvg-logo="https://epg.112114.eu.org/logo/新会综合.png" group-title="广东",新会综合
+http://php.jdshipin.com:8880/chudian.php?id=xhzh
+#EXTINF:-1,tvg-id="吴川综合" tvg-name="吴川综合" tvg-logo="https://epg.112114.eu.org/logo/吴川综合.png" group-title="广东",吴川综合
+http://php.jdshipin.com:8880/chudian.php?id=wczh
+#EXTINF:-1,tvg-id="乐昌电视台" tvg-name="乐昌电视台" tvg-logo="https://epg.112114.eu.org/logo/乐昌电视台.png" group-title="广东",乐昌电视台
+http://php.jdshipin.com:8880/chudian.php?id=lctv
+#EXTINF:-1,tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://epg.112114.eu.org/logo/潮安综合.png" group-title="广东",潮安综合
+http://php.jdshipin.com:8880/chudian.php?id=cazh
+
 
 #湖南
 #EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="湖南",茶频道
