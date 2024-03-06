@@ -898,8 +898,8 @@ http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 #台湾
 #EXTINF:-1,tvg-id="耀财财经台" tvg-name="耀财财经台" tvg-logo="https://epg.112114.eu.org/logo/耀财财经台.png" group-title="台湾",耀财财经台
-https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8
-#EXTINF:-1,tvg-id="tvbs新闻台" tvg-name="tvbs新闻台" tvg-logo="https://epg.112114.eu.org/logo/tvbs新闻台.png" group-title="台湾",tvbs新闻台
+https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+#EXTINF:-1,tvg-id="tvbs LIVE" tvg-name="tvbs LIVE" tvg-logo="https://epg.112114.eu.org/logo/tvbs LIVE.png" group-title="台湾",tvbs LIVE
 https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
 #EXTINF:-1,tvg-id="tvbs新闻台" tvg-name="tvbs新闻台" tvg-logo="https://epg.112114.eu.org/logo/tvbs新闻台.png" group-title="台湾",tvbs新闻台
 https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a6081d2fd915147cf.ctv
