@@ -954,7 +954,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 #台湾
-#EXTINF:-1,tvg-id="耀财财经台" tvg-name="耀财财经台" tvg-logo="https://epg.112114.eu.org/logo/耀财财经台.png" group-title="台湾",耀财财经台
+#EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.eu.org/logo/耀才财经台.png" group-title="台湾",耀才财经台
 https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs LIVE
 https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
@@ -1020,7 +1020,7 @@ rtmp://f13h.mine.nu/sat/tv771
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.112114.eu.org/logo/緯來體育.png" group-title="台湾",緯來體育
 https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-#EXTINF:-1,tvg-id="镜新闻台" tvg-name="镜新闻台" tvg-logo="https://epg.112114.eu.org/logo/镜新闻台.png" group-title="台湾",镜新闻台
+#EXTINF:-1,tvg-id="mnew镜新闻台" tvg-name="menw镜新闻台" tvg-logo="https://epg.112114.eu.org/logo/mnew镜新闻台.png" group-title="台湾",镜新闻台
 https://epg.pw/stream/69c1070f6f9f3c3b09a615e5f27c20850979721087bc150aaecec0622ada6cb2.ctv
 #EXTINF:-1,tvg-id="壹新闻台" tvg-name="壹新闻台" tvg-logo="https://epg.112114.eu.org/logo/壹新闻台.png" group-title="台湾",壹新闻台
 http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
@@ -1044,7 +1044,7 @@ http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlz
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
 #EXTINF:-1,tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://epg.112114.eu.org/logo/东森戏剧.png" group-title="台湾",东森戏剧
 http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-#EXTINF:-1,tvg-id="美亚C+" tvg-name="美亚C+" tvg-logo="https://epg.112114.eu.org/logo/美亚C+.png" group-title="台湾",美亚C+
+#EXTINF:-1,tvg-id="C+" tvg-name="C+" tvg-logo="https://epg.112114.eu.org/logo/C+.png" group-title="台湾",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.112114.eu.org/logo/环球电视台.png" group-title="台湾",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
