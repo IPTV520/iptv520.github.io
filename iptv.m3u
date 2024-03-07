@@ -1020,7 +1020,7 @@ rtmp://f13h.mine.nu/sat/tv771
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.112114.eu.org/logo/緯來體育.png" group-title="台湾",緯來體育
 https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-#EXTINF:-1,tvg-id="mnew镜新闻台" tvg-name="menw镜新闻台" tvg-logo="https://epg.112114.eu.org/logo/mnew镜新闻台.png" group-title="台湾",镜新闻
+#EXTINF:-1,tvg-id="mnews 镜新闻台" tvg-name="menws 镜新闻台" tvg-logo="https://epg.112114.eu.org/logo/mnews 镜新闻台.png" group-title="台湾",镜新闻
 https://epg.pw/stream/69c1070f6f9f3c3b09a615e5f27c20850979721087bc150aaecec0622ada6cb2.ctv
 #EXTINF:-1,tvg-id="壹新闻台" tvg-name="壹新闻台" tvg-logo="https://epg.112114.eu.org/logo/壹新闻台.png" group-title="台湾",壹新闻台
 http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
