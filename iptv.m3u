@@ -952,25 +952,20 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 #澳门
-#EXTINF:-1,tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-logo="https://epg.112114.eu.org/logo/澳視葡文.png"group-title="澳门",澳視葡文
+#EXTINF:-1,tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://epg.112114.eu.org/logo/澳视葡文.png"group-title="澳门",澳视葡文
 https://epg.pw/stream/6c968878b97c69047977c320c1243cf45107b7788f6a4d6803c975fee716b8e9.m3u8
-#EXTINF:-1,tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-logo="https://epg.112114.eu.org/logo/澳視葡文.png"group-title="澳门",澳視葡文
+#EXTINF:-1,tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://epg.112114.eu.org/logo/澳视葡文.png"group-title="澳门",澳视葡文
 https://epg.pw/stream/230d718383bedd8c9757fbfe8589a51c9ecf4131fbfb7a22f462ddf17fa1435e.m3u8
-#EXTINF:-1,tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://epg.112114.eu.org/logo/澳門綜藝.png"group-title="澳门",澳門綜藝
+#EXTINF:-1,tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://epg.112114.eu.org/logo/澳门综艺.png"group-title="澳门",澳门综艺
 https://epg.pw/stream/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8
 #EXTINF:-1,tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://epg.112114.eu.org/logo/澳门资讯.png"group-title="澳门",澳门资讯
 https://epg.pw/stream/45db1a0bae9d32dd70fce159b47d886c8fbf6ec5ee57af0e2f91ef017ba73338.m3u8
 #EXTINF:-1,tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://epg.112114.eu.org/logo/澳门资讯.png"group-title="澳门",澳门资讯
 https://epg.pw/stream/8f5e06164f83ea905f999a68eb8c62711d9b752fc3b984f5a6b07b1b355e210b.m3u8
-#EXTINF:-1,tvg-id="澳門MACAU" tvg-name="澳門MACAU" tvg-logo="https://epg.112114.eu.org/logo/澳門MACAU.png"group-title="澳门",澳門MACAU
+#EXTINF:-1,tvg-id="澳门MACAU" tvg-name="澳门MACAU" tvg-logo="https://epg.112114.eu.org/logo/澳门MACAU.png"group-title="澳门",澳门MACAU
 http://61.244.22.5/ch3/ch3.live/playelist.m3u8?zgangd
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.eu.org/logo/澳门莲花.png"group-title="澳门",澳门莲花
 http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
-#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.eu.org/logo/澳视澳门.png"group-title="澳门",澳视澳门
-https://pi.0472.org/tv/asam.php?auth=2309081833
-#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.eu.org/logo/澳视澳门.png"group-title="澳门",澳视澳门（广电）
-http://iptv.hiper25.com:7522/upnp/channelstream/4135710891681309823%7C%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-
 
 
 #台湾
