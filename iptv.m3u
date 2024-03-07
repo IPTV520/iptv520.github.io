@@ -886,71 +886,71 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
 #香港
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
 http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
 https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（挂梯）
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（挂梯）
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/71040
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
 http://iptv.hiper25.com:7522/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
 http://iptv.hiper25.com:7523/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
 http://iptv.hiper25.com:7524/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
 http://iptv.hiper25.com:7525/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="港台",翡翠台（广电版）
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
 http://iptv.hiper25.com:7526/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="港台",明珠台（广电版）
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台（广电版）
 http://iptv.hiper25.com:7522/upnp/channelstream/4135554395957947325%7C%E6%98%8E%E7%8F%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="港台",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
 http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
-#EXTINF:-1,tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.eu.org/logo/有线新闻.png"group-title="港台",有线新闻
+#EXTINF:-1,tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.eu.org/logo/有线新闻.png"group-title="香港",有线新闻
 https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="港台",无线新闻
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
 https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="港台",无线新闻
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
 http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="港台",无线新闻
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
 https://epg.pw/stream/80a909a382b68b54450f24e0557ac45ad473e6944d3fa6a97b60772743651ad6.m3u8
-#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.eu.org/logo/无线财经.png"group-title="港台",无线财经
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.eu.org/logo/无线财经.png"group-title="香港",无线财经
 https://epg.pw/stream/2a431cef6854021ea00e737ccc8a4996cb4618297f939a720bbaeaef1dd75636.m3u8
-#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY" tvg-logo="https://epg.112114.eu.org/logo/HOY.png" group-title="港台",HOY TV
+#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY" tvg-logo="https://epg.112114.eu.org/logo/HOY.png" group-title="香港",HOY TV
 https://epg.pw/stream/435774637b62bfc3d037127b5a59e956dc250a326c722f83ee416c11ca2e1963.ctv
-#EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.eu.org/logo/RTHK31.png" group-title="港台",RTHK31
+#EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.eu.org/logo/RTHK31.png" group-title="香港",RTHK31
 https://epg.pw/stream/8722fa716c27f2cb06b7e5e358bfeff5217167a47018364fcf05567da8f571e5.ctv
-#EXTINF:-1,tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://epg.112114.eu.org/logo/RTHK35.png" group-title="港台",RTHK35
+#EXTINF:-1,tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://epg.112114.eu.org/logo/RTHK35.png" group-title="香港",RTHK35
 https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
-#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="港台",RTHK32
+#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="香港",RTHK32
 https://epg.pw/stream/32c03d40ac25db200f05551ace248b8cf2b807859aab2888e78227870ebadf67.ctv
-#EXTINF:-1,tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.112114.eu.org/logo/RTHK33.png" group-title="港台",RTHK33
+#EXTINF:-1,tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.112114.eu.org/logo/RTHK33.png" group-title="香港",RTHK33
 https://epg.pw/stream/b6a5f89266b740a43b7231afcffc2cce5c46e8dc2f3b8d8df3b9efd3c9460c20.ctv
-#EXTINF:-1,tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://epg.112114.eu.org/logo/RTHK34.png" group-title="港台",RTHK34
+#EXTINF:-1,tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://epg.112114.eu.org/logo/RTHK34.png" group-title="香港",RTHK34
 https://epg.pw/stream/f8729f0e34b57e482f8d98dc667a7689215b4f677f43ce90408e9a8fff157fec.ctv
-#EXTINF:-1,tvg-id="TVBJ1" tvg-name="J1" tvg-logo="https://epg.112114.eu.org/logo/TVBJ1.png" group-title="港台",TVBJ1
+#EXTINF:-1,tvg-id="TVBJ1" tvg-name="J1" tvg-logo="https://epg.112114.eu.org/logo/TVBJ1.png" group-title="香港",TVBJ1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.eu.org/logo/J2.png" group-title="港台",J2
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.eu.org/logo/J2.png" group-title="香港",J2
 http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.eu.org/logo/J2.png" group-title="港台",J2
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.eu.org/logo/J2.png" group-title="香港",J2
 https://epg.pw/stream/0538ba224aaf885179ea745b10e19769b9c92ee8cf2e27bd12aa101955da0fcb.ctv
-#EXTINF:-1,tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://epg.112114.eu.org/logo/娱乐新闻.png" group-title="港台",娱乐新闻
+#EXTINF:-1,tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://epg.112114.eu.org/logo/娱乐新闻.png" group-title="香港",娱乐新闻
 https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="港台",TVB星河
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河
 https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="港台",TVB星河
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河
 http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png"group-title="港台",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png"group-title="香港",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png"group-title="港台",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png"group-title="香港",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.eu.org/logo/凤凰香港.png"group-title="港台",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.eu.org/logo/凤凰香港.png"group-title="香港",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.eu.org/logo/香港卫视.png"group-title="港台",香港卫视
+#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.eu.org/logo/香港卫视.png"group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,tvg-id="香港文旅" tvg-name="香港文旅" tvg-logo="https://epg.112114.eu.org/logo/香港文旅.png"group-title="港台",香港文旅
+#EXTINF:-1,tvg-id="香港文旅" tvg-name="香港文旅" tvg-logo="https://epg.112114.eu.org/logo/香港文旅.png"group-title="香港",香港文旅
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 #台湾
