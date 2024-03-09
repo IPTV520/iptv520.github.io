@@ -418,7 +418,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://epg.112114.eu.org/logo/金砖中文.png" group-title="IHOT",金砖中文
+#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://epg.112114.eu.org/logo/金砖中文.png" group-title="国际时事",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 
@@ -554,17 +554,17 @@ https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d
 http://stream.appwuhan.com/3tzb/sd/live.m3u8
 
 #广东
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东",广东体育高清（广电）
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东",广东体育「广电高清」
 http://iptv.hiper25.com:58080/gdty/index.m3u8
 #EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
 https://epg.pw/stream/592621ffe44258b83e62314b2dd5dc16c7a7f480edc397be35ecf2e7a625c7b0.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江高清
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「高清」
 http://61.140.201.112:8028/udp/239.77.0.1:5146
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江高清
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「高清」
 http://61.140.201.112:8028/udp/239.77.0.114:5146
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江高清（广电）
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「广电高清」
 http://iptv.hiper25.com:58080/gdzj/index.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
@@ -911,11 +911,11 @@ http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=192
 http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
 https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台高清（广电）
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台「广电高清」
 http://iptv.hiper25.com:58080/TVB/index.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
 http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台高清（广电）
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台「广电高清」
 http://iptv.hiper25.com:58080/pearl/index.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
 https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
@@ -963,7 +963,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 #澳门
-#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.eu.org/logo/澳视澳门.png"group-title="澳门",澳视澳门高清（广电）
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.eu.org/logo/澳视澳门.png"group-title="澳门",澳视澳门「广电高清」
 http://iptv.hiper25.com:58080/TDM/index.m3u8
 #EXTINF:-1,tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://epg.112114.eu.org/logo/澳视葡文.png"group-title="澳门",澳视葡文
 https://epg.pw/stream/6c968878b97c69047977c320c1243cf45107b7788f6a4d6803c975fee716b8e9.m3u8
