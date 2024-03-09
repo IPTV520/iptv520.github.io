@@ -991,9 +991,13 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
 #EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.eu.org/logo/耀才财经台.png" group-title="台湾",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs LIVE
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs新闻台
+http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs HD
+http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs新闻台
 https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
-#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs新闻台
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs HD
 https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a6081d2fd915147cf.ctv
 #EXTINF:-1,tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://epg.112114.eu.org/logo/三立LIVE.png" group-title="台湾",三立LIVE
 https://epg.pw/stream/ae4170b916932f29973cea9abe8ca8f4228189ba89a30cfd61754d59b8f31f93.ctv
