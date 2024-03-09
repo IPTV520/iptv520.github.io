@@ -418,6 +418,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://epg.112114.eu.org/logo/金砖中文.png" group-title="IHOT",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
 
 #IHOT
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱院线.png" group-title="IHOT",iHOT爱院线
@@ -906,18 +909,6 @@ http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszx
 https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（挂梯）
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/71040
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
-http://iptv.hiper25.com:7522/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
-http://iptv.hiper25.com:7523/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
-http://iptv.hiper25.com:7524/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
-http://iptv.hiper25.com:7525/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台（广电版）
-http://iptv.hiper25.com:7526/upnp/channelstream/4135644336867279173%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台（广电版）
-http://iptv.hiper25.com:7522/upnp/channelstream/4135554395957947325%7C%E6%98%8E%E7%8F%A0%E5%8F%B0%EF%BC%88%E5%B9%BF%E7%94%B5IPv6%EF%BC%89.ts
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
 http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
@@ -936,6 +927,8 @@ https://epg.pw/stream/8722fa716c27f2cb06b7e5e358bfeff5217167a47018364fcf05567da8
 https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="香港",RTHK32
 https://epg.pw/stream/32c03d40ac25db200f05551ace248b8cf2b807859aab2888e78227870ebadf67.ctv
+#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="香港",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.112114.eu.org/logo/RTHK33.png" group-title="香港",RTHK33
 https://epg.pw/stream/b6a5f89266b740a43b7231afcffc2cce5c46e8dc2f3b8d8df3b9efd3c9460c20.ctv
 #EXTINF:-1,tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://epg.112114.eu.org/logo/RTHK34.png" group-title="香港",RTHK34
@@ -978,11 +971,18 @@ https://epg.pw/stream/8f5e06164f83ea905f999a68eb8c62711d9b752fc3b984f5a6b07b1b35
 http://61.244.22.5/ch3/ch3.live/playelist.m3u8?zgangd
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.eu.org/logo/澳门莲花.png"group-title="澳门",澳门莲花
 http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.eu.org/logo/澳亚卫视.png"group-title="澳门",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+
+
+
 
 
 #台湾
 #EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.eu.org/logo/耀才财经台.png" group-title="台湾",耀才财经台
 https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+#EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.eu.org/logo/耀才财经台.png" group-title="台湾",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs LIVE
 https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs新闻台
@@ -1075,6 +1075,13 @@ http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfv
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.112114.eu.org/logo/环球电视台.png" group-title="台湾",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,tvg-id="面包台" tvg-name="面包台" tvg-logo="https://epg.112114.eu.org/logo/面包台.png" group-title="台湾",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://epg.112114.eu.org/logo/番薯台.png" group-title="台湾",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1,tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://epg.112114.eu.org/logo/人间卫视.png" group-title="台湾",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
 
 #地方台
 #EXTINF:-1, group-title="地方",池州综合
