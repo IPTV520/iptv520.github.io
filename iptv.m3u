@@ -745,6 +745,78 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="ZJ07" tvg-name="浙江国际" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png" group-title="浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,tvg-id="海宁生活服务" tvg-name="海宁生活服务" tvg-logo="https://epg.112114.eu.org/logo/海宁生活服务.png" group-title="浙江",海宁生活服务
+http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
+#EXTINF:-1,tvg-id="海宁新闻综合" tvg-name="海宁新闻综合" tvg-logo="https://epg.112114.eu.org/logo/海宁新闻综合.png" group-title="浙江",海宁新闻综合
+http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1,tvg-id="缙云综合频道" tvg-name="缙云综合频道" tvg-logo="https://epg.112114.eu.org/logo/缙云综合频道.png" group-title="浙江",缙云综合频道
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="开化国家公园" tvg-name="开化国家公园" tvg-logo="https://epg.112114.eu.org/logo/开化国家公园.png" group-title="浙江",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="开化新闻综合" tvg-name="开化新闻综合" tvg-logo="https://epg.112114.eu.org/logo/开化新闻综合.png" group-title="浙江",开化新闻综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="兰溪新闻综合" tvg-name="兰溪新闻综合" tvg-logo="https://epg.112114.eu.org/logo/兰溪新闻综合.png" group-title="浙江",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="龙泉新闻综合" tvg-name="龙泉新闻综合" tvg-logo="https://epg.112114.eu.org/logo/龙泉新闻综合.png" group-title="浙江",龙泉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="龙游生活娱乐" tvg-name="龙游生活娱乐" tvg-logo="https://epg.112114.eu.org/logo/龙游生活娱乐.png" group-title="浙江",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="龙游新闻综合" tvg-name="龙游新闻综合" tvg-logo="https://epg.112114.eu.org/logo/龙游新闻综合.png" group-title="浙江",龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="宁波象山综合" tvg-name="宁波象山综合" tvg-logo="https://epg.112114.eu.org/logo/宁波象山综合.png" group-title="浙江",宁波象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="余姚综合" tvg-name="余姚综合" tvg-logo="https://epg.112114.eu.org/logo/余姚综合.png" group-title="浙江",宁波余姚综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://epg.112114.eu.org/logo/平湖民生休闲.png" group-title="浙江",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="平湖新闻综合" tvg-name="平湖新闻综合" tvg-logo="https://epg.112114.eu.org/logo/平湖新闻综合.png" group-title="浙江",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="普陀新闻综合" tvg-name="普陀新闻综合" tvg-logo="https://epg.112114.eu.org/logo/普陀新闻综合.png" group-title="浙江",普陀新闻综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="庆元综合频道" tvg-name="庆元综合频道" tvg-logo="https://epg.112114.eu.org/logo/庆元综合频道.png" group-title="浙江",庆元综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="衢江新闻综合" tvg-name="衢江新闻综合" tvg-logo="https://epg.112114.eu.org/logo/衢江新闻综合.png" group-title="浙江",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="上虞文化影院" tvg-name="上虞文化影院" tvg-logo="https://epg.112114.eu.org/logo/上虞文化影院.png" group-title="浙江",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="上虞新商都" tvg-name="上虞新商都" tvg-logo="https://epg.112114.eu.org/logo/上虞新商都.png" group-title="浙江",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="上虞新闻综合" tvg-name="上虞新闻综合" tvg-logo="https://epg.112114.eu.org/logo/上虞新闻综合.png" group-title="浙江",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="绍兴公共频道" tvg-name="绍兴公共频道" tvg-logo="https://epg.112114.eu.org/logo/绍兴公共频道.png" group-title="浙江",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+#EXTINF:-1,tvg-id="绍兴文化影院" tvg-name="绍兴文化影院" tvg-logo="https://epg.112114.eu.org/logo/绍兴文化影院.png" group-title="浙江",绍兴文化影院
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1,tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/绍兴新闻综合.png" group-title="浙江",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+#EXTINF:-1,tvg-id="嵊州新闻综合" tvg-name="嵊州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/嵊州新闻综合.png" group-title="浙江",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="松阳综合频道" tvg-name="松阳综合频道" tvg-logo="https://epg.112114.eu.org/logo/松阳综合频道.png" group-title="浙江",松阳综合频道
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="遂昌综合频道" tvg-name="遂昌综合频道" tvg-logo="https://epg.112114.eu.org/logo/遂昌综合频道.png" group-title="浙江",遂昌综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="田电视台" tvg-name="田电视台" tvg-logo="https://epg.112114.eu.org/logo/田电视台.png" group-title="浙江",田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="文成综合频道" tvg-name="文成综合频道" tvg-logo="https://epg.112114.eu.org/logo/文成综合频道.png" group-title="浙江",文成综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="萧山生活频道" tvg-name="萧山生活频道" tvg-logo="https://epg.112114.eu.org/logo/萧山生活频道.png" group-title="浙江",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="萧山新闻综合" tvg-name="萧山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/萧山新闻综合.png" group-title="浙江",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="永嘉新闻综合" tvg-name="永嘉新闻综合" tvg-logo="https://epg.112114.eu.org/logo/永嘉新闻综合.png" group-title="浙江",永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="余杭未来E频道" tvg-name="余杭未来E频道" tvg-logo="https://epg.112114.eu.org/logo/余杭未来E频道.png" group-title="浙江",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="余杭综合频道" tvg-name="余杭综合频道" tvg-logo="https://epg.112114.eu.org/logo/余杭综合频道.png" group-title="浙江",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="云和新闻综合" tvg-name="云和新闻综合" tvg-logo="https://epg.112114.eu.org/logo/云和新闻综合.png" group-title="浙江",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+#EXTINF:-1,tvg-id="舟山公共生活" tvg-name="舟山公共生活" tvg-logo="https://epg.112114.eu.org/logo/舟山公共生活.png" group-title="浙江",舟山公共生活
+http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
+#EXTINF:-1,tvg-id="舟山新闻综合" tvg-name="舟山新闻综合" tvg-logo="https://epg.112114.eu.org/logo/舟山新闻综合.png" group-title="浙江",舟山新闻综合
+http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1,tvg-id="诸暨新闻综合" tvg-name="诸暨新闻综合" tvg-logo="https://epg.112114.eu.org/logo/诸暨新闻综合.png" group-title="浙江",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
 
 
 #上海
@@ -760,12 +832,15 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SH06" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dfcj.png" group-title="上海",东方财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-
-#北京
+#EXTINF:-1 tvg-id="SH06" tvg-name="崇明电视台" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="上海",崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 tvg-id="SH06" tvg-name="嘉定电视台" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海",嘉定电视台
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 #EXTINF:-1 tvg-id="BJ05" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="上海",纪实科教
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="上海",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
 
 
 #山西
@@ -1328,10 +1403,7 @@ http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
 http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 #EXTINF:-1 group-title="•地区",「山西」长子综合
 http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
-#EXTINF:-1 group-title="•地区",「上海」崇明电视台
-https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-#EXTINF:-1 group-title="•地区",「上海」嘉定电视台
-https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
+
 #EXTINF:-1 group-title="•地区",「四川」滨海新闻
 http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 #EXTINF:-1 group-title="•地区",「四川」滨海影院
@@ -1420,78 +1492,7 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/play
 http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
 #EXTINF:-1 group-title="•地区",「云南」西双版纳综合
 http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
-#EXTINF:-1 group-title="•地区",「浙江」海宁生活服务
-http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」海宁新闻综合
-http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」缙云综合频道
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」开化新闻综合
-http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」兰溪新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」龙泉新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」龙游生活娱乐
-http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」龙游新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」宁波-象山综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」宁波-余姚综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」平湖新闻综合
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」普陀新闻综合
-http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」庆元综合频道
-http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」衢江新闻综合
-http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」上虞文化影院
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」绍兴公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」绍兴文化影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」松阳综合频道
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」遂昌综合频道
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」田电视台
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」文成综合频道
-http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」萧山生活频道
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」永嘉新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」余杭未来E频道
-http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」余杭综合频道
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」云和新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」舟山公共生活
-http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」舟山新闻综合
-http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="•地区",「浙江」诸暨新闻综合
-http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
+
 
 #地方
 #EXTINF:-1, group-title="地方",池州综合
