@@ -517,14 +517,8 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/
 http://r.jdshipin.com/OeHMu
 #EXTINF:-1,tvg-id="北京卡酷" tvg-name="北京卡酷" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷.png" group-title="北京",北京卡酷
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-#EXTINF:-1,tvg-id="怀柔电视台" tvg-name="怀柔电视台" tvg-logo="https://epg.112114.eu.org/logo/怀柔电视台.png" group-title="北京",怀柔电视台
-https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
-#EXTINF:-1,tvg-id="昌平综合" tvg-name="昌平综合" tvg-logo="https://epg.112114.eu.org/logo/昌平综合.png" group-title="北京",昌平综合
-http://61.50.142.158/live/0.m3u8
 #EXTINF:-1,tvg-id="房山有线频道" tvg-name="房山有线频道" tvg-logo="https://epg.112114.eu.org/logo/房山有线频道.png" group-title="北京",房山有线频道
 http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1,tvg-id="通州电视台" tvg-name="通州电视台" tvg-logo="https://epg.112114.eu.org/logo/通州电视台.png" group-title="北京",通州电视台
-http://pull.dayuntongzhou.com/live/tztv.m3u8
 
 
 
