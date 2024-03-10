@@ -511,6 +511,22 @@ http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 http://live.funhillrm.com/2/sd/live.m3u8?zbeid
 #EXTINF:-1,tvg-id="北京新闻石景山有线" tvg-name="北京新闻石景山有线" tvg-logo="https://epg.112114.eu.org/logo/北京新闻石景山有线.png" group-title="北京",北京新闻石景山有线
 http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京",北京纪实科教
+https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.112114.eu.org/logo/北京纪实科教.png" group-title="北京",北京纪实科教
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/index.m3u8
+#EXTINF:-1,tvg-id="IPTV淘电影" tvg-name="IPTV淘电影" tvg-logo="https://epg.112114.eu.org/logo/IPTV淘电影.png" group-title="北京",北京IPTV淘电影
+http://r.jdshipin.com/OeHMu
+#EXTINF:-1,tvg-id="北京卡酷" tvg-name="北京卡酷" tvg-logo="https://epg.112114.eu.org/logo/北京卡酷.png" group-title="北京",北京卡酷
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+#EXTINF:-1,tvg-id="怀柔电视台" tvg-name="怀柔电视台" tvg-logo="https://epg.112114.eu.org/logo/怀柔电视台.png" group-title="北京",怀柔电视台
+https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
+#EXTINF:-1,tvg-id="昌平综合" tvg-name="昌平综合" tvg-logo="https://epg.112114.eu.org/logo/昌平综合.png" group-title="北京",昌平综合
+http://61.50.142.158/live/0.m3u8
+#EXTINF:-1,tvg-id="房山有线频道" tvg-name="房山有线频道" tvg-logo="https://epg.112114.eu.org/logo/房山有线频道.png" group-title="北京",房山有线频道
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1,tvg-id="通州电视台" tvg-name="通州电视台" tvg-logo="https://epg.112114.eu.org/logo/通州电视台.png" group-title="北京",通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
 
 
 
@@ -909,6 +925,12 @@ https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="上海",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1,tvg-id="崇明电视台" tvg-name="崇明电视台" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="上海",崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+#EXTINF:-1,tvg-id="金山电视台" tvg-name="金山电视台" tvg-logo="https://epg.112114.eu.org/logo/金山电视台.png" group-title="上海",金山电视台
+http://live.mudu.tv/watch/4zbn2f.m3u8
+#EXTINF:-1,tvg-id="金山电视台" tvg-name="金山电视台" tvg-logo="https://epg.112114.eu.org/logo/金山电视台.png" group-title="上海",金山电视台
+http://live.mudu.tv/watch/4zbn2f.flv
 
 
 
