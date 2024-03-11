@@ -631,10 +631,14 @@ http://php.jdshipin.com:8880/0769.php?id=xwzh
 http://php.jdshipin.com:8880/0769.php?id=shzx
 #EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.eu.org/logo/佛山综合.png" group-title="广东",佛山综合
 http://php.jdshipin.com:8880/fstv.php?id=fszh
+#EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.eu.org/logo/佛山综合.png" group-title="广东",佛山综合（电信高清）
+http://14.126.127.139:10001/udp/239.253.43.57:5146
 #EXTINF:-1,tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.112114.eu.org/logo/佛山影视.png" group-title="广东",佛山影视
 http://php.jdshipin.com:8880/fstv.php?id=fsys
 #EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.eu.org/logo/佛山公共.png" group-title="广东",佛山公共
 http://php.jdshipin.com:8880/fstv.php?id=fsgg
+#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.eu.org/logo/佛山公共.png" group-title="广东",佛山公共（电信高清）
+http://14.126.127.139:10001/udp/239.253.43.53:5146
 #EXTINF:-1,tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://epg.112114.eu.org/logo/佛山南海.png" group-title="广东",佛山南海
 http://php.jdshipin.com:8880/fstv.php?id=fsnh
 #EXTINF:-1,tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://epg.112114.eu.org/logo/佛山顺德.png" group-title="广东",佛山顺德
@@ -707,6 +711,11 @@ http://www.namewee.xyz/gudou.php?id=shantouyitaogaoqing_4500
 http://183.238.248.84:9000/udp/239.21.0.102:3748
 #EXTINF:-1,tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.eu.org/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
 http://183.238.248.83:9000/udp/239.21.0.103:3752
+#EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.eu.org/logo/揭阳综合.png" group-title="广东",揭阳综合（电信）
+http://14.126.127.139:10001/udp/239.77.0.229:5146
+#EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.eu.org/logo/揭阳生活.png" group-title="广东",揭阳生活（电信）
+http://14.126.127.139:10001/udp/239.77.0.251:5146
+
 
 
 #湖南
