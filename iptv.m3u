@@ -711,9 +711,9 @@ http://www.namewee.xyz/gudou.php?id=shantouyitaogaoqing_4500
 http://183.238.248.84:9000/udp/239.21.0.102:3748
 #EXTINF:-1,tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.eu.org/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
 http://183.238.248.83:9000/udp/239.21.0.103:3752
-#EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.eu.org/logo/揭阳综合.png" group-title="广东",揭阳综合（电信）
+#EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.eu.org/logo/揭阳综合.png" group-title="广东",揭阳综合（电信高清）
 http://14.126.127.139:10001/udp/239.77.0.229:5146
-#EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.eu.org/logo/揭阳生活.png" group-title="广东",揭阳生活（电信）
+#EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.eu.org/logo/揭阳生活.png" group-title="广东",揭阳生活（电信高清）
 http://14.126.127.139:10001/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-id="揭西综合" tvg-name="揭西综合" tvg-logo="https://epg.112114.eu.org/logo/揭西综合.png" group-title="广东",揭西综合（电信）
 http://120.84.121.54:808/hls/27/index.m3u8
