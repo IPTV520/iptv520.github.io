@@ -988,6 +988,8 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 #四川
+#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://epg.112114.eu.org/logo/重庆新闻.png" group-title="四川",重庆新闻（电信）
+http://14.107.43.239:20005/rtp/235.254.196.199:7980
 #EXTINF:-1,tvg-id="滨海新闻" tvg-name="滨海新闻" tvg-logo="https://epg.112114.eu.org/logo/滨海新闻.png" group-title="四川",滨海新闻
 http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 #EXTINF:-1,tvg-id="滨海影院" tvg-name="滨海影院" tvg-logo="https://epg.112114.eu.org/logo/滨海影院.png" group-title="四川",滨海影院
