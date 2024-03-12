@@ -2016,10 +2016,10 @@ http://mmitv.top:80/test/douyu.php?id=122402&u=4654622&cate
 http://159.75.85.63:35455/douyu/9292492
 #EXTINF:-1 tvg-id="漫威剧" tvg-name="漫威剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/漫威剧.png" group-title="电影频道",漫威剧
 http://159.75.85.63:35455/douyu/6140589
-#EXTINF:-1 tvg-id="贝爷影厅" tvg-name="贝爷影厅" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/贝爷影厅.png" group-title="电影频道",贝爷影厅
+#EXTINF:-1 tvg-id="贝爷影厅" tvg-name="贝爷影厅" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/贝爷影厅.png" group-title="电影频道",贝爷影厅神乐影院
 http://159.75.85.63:35455/douyu/252802
-
-
+#EXTINF:-1 tvg-id="下饭神剧" tvg-name="下饭神剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/下饭神剧.png" group-title="电影频道",下饭神剧
+http://43.138.170.29:35455/douyu/276200
 
 
 #历年春晚
