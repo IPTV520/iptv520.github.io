@@ -2003,6 +2003,25 @@ https://epg.pw/stream/2f96a02a897c3538bb00d6b75de0fa7fda36a23927883755f391323624
 #EXTINF:-1 ,group-title="地方",邢台综合频道
 https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8
 
+#电影频道
+#EXTINF:-1 tvg-id="126" tvg-name="邵氏影院" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/邵氏影院.png" group-title="电影频道",邵氏影院
+http://mmitv.top:80/test/douyu.php?id=4246519
+#EXTINF:-1 tvg-id="126" tvg-name="邵氏影院" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/邵氏影院.png" group-title="电影频道",邵氏影院
+http://epg.112114.xyz/douyu/4246519
+#EXTINF:-1 tvg-id="126" tvg-name="豆瓣高分" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/豆瓣高分.png" group-title="电影频道",豆瓣高分
+http://43.138.170.29:35455/douyu/8770422
+#EXTINF:-1 tvg-id="126" tvg-name="星爷影院" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/星爷影院.png" group-title="电影频道",星爷影院
+http://mmitv.top:80/test/douyu.php?id=122402&u=4654622&cate
+#EXTINF:-1 tvg-id="126" tvg-name="喜剧电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/喜剧电影.png" group-title="电影频道",喜剧电影
+http://159.75.85.63:35455/douyu/9292492
+#EXTINF:-1 tvg-id="126" tvg-name="欧美大片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/欧美大片.png" group-title="电影频道",欧美大片
+http://159.75.85.63:35455/douyu/2793084
+#EXTINF:-1 tvg-id="126" tvg-name="贝爷影厅" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/贝爷影厅.png" group-title="电影频道",贝爷影厅
+http://159.75.85.63:35455/douyu/252802
+
+
+
+
 #历年春晚
 #EXTINF:-1,tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1983
 https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
