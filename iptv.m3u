@@ -719,7 +719,7 @@ http://183.30.202.137:8000/udp/239.77.0.229:5146
 #EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.eu.org/logo/揭阳生活.png" group-title="广东",揭阳生活（电信高清）
 http://183.30.202.137:8000/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-id="揭西综合" tvg-name="揭西综合" tvg-logo="https://epg.112114.eu.org/logo/揭西综合.png" group-title="广东",揭西综合（电信）
-http://183.1.250.154:8081/hls/39/index.m3u8
+http://113.64.145.157:8081/hls/19/index.m3u8
 
 
 #湖南
