@@ -1387,7 +1387,7 @@ https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc
 #EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.eu.org/logo/耀才财经台.png" group-title="台湾",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs新闻台
-http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs HD
 http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs新闻台
