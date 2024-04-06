@@ -563,10 +563,6 @@ http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
 https://epg.pw/stream/592621ffe44258b83e62314b2dd5dc16c7a7f480edc397be35ecf2e7a625c7b0.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「高清」
-http://61.140.201.112:8028/udp/239.77.0.1:5146
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「高清」
-http://61.140.201.112:8028/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「广电高清」
 http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
