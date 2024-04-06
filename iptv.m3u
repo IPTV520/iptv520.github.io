@@ -1303,7 +1303,7 @@ http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #香港
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+http://223.71.206.22:30080/HK/tvb/hls.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
 http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
@@ -1311,7 +1311,7 @@ https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6a
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台「广电高清」
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+http://223.71.206.22:30080/HK/mz/hls.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台「广电高清」
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
@@ -1401,7 +1401,7 @@ https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs HD
 https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a6081d2fd915147cf.ctv
 #EXTINF:-1,tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://epg.112114.eu.org/logo/三立LIVE.png" group-title="台湾",三立LIVE
-http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
+http://165.1.79.200:9000/live.m3u8?c=95
 #EXTINF:-1,tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://epg.112114.eu.org/logo/三立LIVE.png" group-title="台湾",三立LIVE
 http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="台湾",三立新闻台
@@ -1413,9 +1413,11 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfb
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="台湾",东森新闻台
 http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
-http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
+https://s2.pub/cctv-17
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
-http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+http://mywlkj.ddns.net:754/tv/yximgs.php?id=66
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
+http://112.29.107.125:8182/TW/ztxw/hls.m3u8
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="台湾",中视HD
 http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
