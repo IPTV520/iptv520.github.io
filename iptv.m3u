@@ -557,14 +557,12 @@ https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d
 http://stream.appwuhan.com/3tzb/sd/live.m3u8
 
 #广东
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东",广东体育「广电高清」
-http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
 #EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1,tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.eu.org/logo/广东文化.png" group-title="广东",广东文化
 https://epg.pw/stream/592621ffe44258b83e62314b2dd5dc16c7a7f480edc397be35ecf2e7a625c7b0.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「广电高清」
-http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
+http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
