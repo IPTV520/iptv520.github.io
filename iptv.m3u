@@ -1160,38 +1160,16 @@ http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 http://livetv.skycf.eu.org/live.m3u8?c=7
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
 http://112.29.107.125:8182/TW/ztxw/hls.m3u8
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.eu.org/logo/中视.png" group-title="台湾",中视HD
-http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
-#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
-https://epg.pw/stream/5b471967247922dd626a252fb38f22a06be7e1a8c34e2b8c8cea7d4bc73a5c7f.ctv
-#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
-http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
 http://livetv.skycf.eu.org/live.m3u8?c=6
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
-http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
 https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="台湾",台视HD
 https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
-#EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="台湾",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="台湾",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1,tvg-id="壹新闻" tvg-name="壹新闻" tvg-logo="https://epg.112114.eu.org/logo/壹新闻.png" group-title="台湾",壹新闻
-http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
-#EXTINF:-1,tvg-id="壹新闻" tvg-name="壹新闻" tvg-logo="https://epg.112114.eu.org/logo/壹新闻.png" group-title="台湾",壹新闻
-http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
-http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
-http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="台湾",民视
 rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="台湾",民视
-http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
 #EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="台湾",民视新闻
 http://livetv.skycf.eu.org:80/live.m3u8?c=11
 #EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="台湾",民视新闻
@@ -1206,28 +1184,6 @@ https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.112114.eu.org/logo/緯來體育.png" group-title="台湾",緯來體育
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1,tvg-id="mnews 镜新闻台" tvg-name="menws 镜新闻台" tvg-logo="https://epg.112114.eu.org/logo/mnews 镜新闻台.png" group-title="台湾",镜新闻
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
-#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="台湾",非凡新闻台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
-#EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.eu.org/logo/动物星球.png" group-title="台湾",动物星球
-http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="台湾",台视HD
-http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
-#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.eu.org/logo/龙祥时代.png" group-title="台湾",龙祥时代
-http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
-#EXTINF:-1,tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.112114.eu.org/logo/东森电影.png" group-title="台湾",东森电影
-http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-#EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.112114.eu.org/logo/龙华电影.png" group-title="台湾",龙华电影
-http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
-#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.eu.org/logo/龙华洋片.png" group-title="台湾",龙华洋片
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
-#EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.112114.eu.org/logo/好莱坞电影.png" group-title="台湾",好莱坞电影
-http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.eu.org/logo/AXN.png" group-title="台湾",AXN
-http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-#EXTINF:-1,tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://epg.112114.eu.org/logo/东森戏剧.png" group-title="台湾",东森戏剧
-http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
 #EXTINF:-1,tvg-id="C+" tvg-name="C+" tvg-logo="https://epg.112114.eu.org/logo/C+.png" group-title="台湾",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.112114.eu.org/logo/环球电视台.png" group-title="台湾",环球电视台
@@ -1236,8 +1192,7 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1,tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://epg.112114.eu.org/logo/番薯台.png" group-title="台湾",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1,tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://epg.112114.eu.org/logo/人间卫视.png" group-title="台湾",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
 
 
 
