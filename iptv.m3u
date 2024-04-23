@@ -63,7 +63,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?
 
 #卫视
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
-https://edge2.laotv.la/live/PhxChinese/index.m3u8
+http://113.64.145.105:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
 http://113.64.145.105:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
@@ -490,7 +490,7 @@ http://183.30.202.137:8000/udp/239.77.0.229:5146
 #EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.eu.org/logo/揭阳生活.png" group-title="广东",揭阳生活（电信高清）
 http://183.30.202.137:8000/udp/239.77.0.251:5146
 #EXTINF:-1,tvg-id="揭西综合" tvg-name="揭西综合" tvg-logo="https://epg.112114.eu.org/logo/揭西综合.png" group-title="广东",揭西综合（电信）
-http://113.64.145.157:8081/hls/39/index.m3u8
+http://113.64.145.105:8081/hls/39/index.m3u8
 
 
 #湖南
