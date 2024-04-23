@@ -1110,22 +1110,18 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1,tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://epg.112114.eu.org/logo/RTHK35.png" group-title="香港",RTHK35
 https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="香港",RTHK32
-https://epg.pw/stream/32c03d40ac25db200f05551ace248b8cf2b807859aab2888e78227870ebadf67.ctv
-#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="香港",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.112114.eu.org/logo/RTHK33.png" group-title="香港",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1,tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://epg.112114.eu.org/logo/RTHK34.png" group-title="香港",RTHK34
-https://epg.pw/stream/f8729f0e34b57e482f8d98dc667a7689215b4f677f43ce90408e9a8fff157fec.ctv
 #EXTINF:-1,tvg-id="TVBJ1" tvg-name="J1" tvg-logo="https://epg.112114.eu.org/logo/TVBJ1.png" group-title="香港",TVBJ1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.eu.org/logo/J2.png" group-title="香港",J2
 http://ali.hlspull.yximgs.com/live/haioutvbj2.flv
 #EXTINF:-1,tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://epg.112114.eu.org/logo/娱乐新闻.png" group-title="香港",娱乐新闻
 https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河（粤语）
 https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河（国语）
 http://ali.hlspull.yximgs.com/live/haioutvbxh.flv
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png"group-title="香港",凤凰中文
 http://116.11.165.8:8181/tsfile/live/1001_1.m3u8
