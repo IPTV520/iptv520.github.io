@@ -353,14 +353,6 @@ https://glive.grtn.cn/live/wenhua_test0203.m3u8
 https://epg.pw/stream/592621ffe44258b83e62314b2dd5dc16c7a7f480edc397be35ecf2e7a625c7b0.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
 http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
-http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503220240113215226046282
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
-http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503720240113214942640175
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江「IPV6」
-http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503820240109152105406385
 #EXTINF:-1,tvg-id="广东综合" tvg-name="广东综合" tvg-logo="https://live.fanmingming.com/tv/广东综合.png" group-title="广东",广东综合频道
 https://epg.pw/stream/687454fe53b02a61036f7aa1b771a55b237a95494f74f83678aae8cc86009618.m3u8
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.eu.org/logo/广东民生.png" group-title="广东",广东民生
@@ -379,8 +371,6 @@ http://php.jdshipin.com:8880/chudian.php?id=gdys
 http://php.jdshipin.com:8880/chudian.php?id=gdyd
 #EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.eu.org/logo/岭南戏曲.png" group-title="广东",岭南戏曲
 http://gmxw.7766.org:808/hls/16/index.m3u8
-#EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.eu.org/logo/岭南戏曲.png" group-title="广东",岭南戏曲「广电高清」
-http://iptv.hiper25.com:58080/lnxq/index.m3u8
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.eu.org/logo/广州综合.png" group-title="广东",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 #EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.eu.org/logo/广州新闻.png" group-title="广东",广州新闻
@@ -405,14 +395,10 @@ http://php.jdshipin.com:8880/0769.php?id=xwzh
 http://php.jdshipin.com:8880/0769.php?id=shzx
 #EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.eu.org/logo/佛山综合.png" group-title="广东",佛山综合
 http://php.jdshipin.com:8880/fstv.php?id=fszh
-#EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.eu.org/logo/佛山综合.png" group-title="广东",佛山综合（电信高清）
-http://113.76.148.7:4022/udp/239.253.43.57:5146
 #EXTINF:-1,tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.112114.eu.org/logo/佛山影视.png" group-title="广东",佛山影视
 http://php.jdshipin.com:8880/fstv.php?id=fsys
 #EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.eu.org/logo/佛山公共.png" group-title="广东",佛山公共
 http://php.jdshipin.com:8880/fstv.php?id=fsgg
-#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.eu.org/logo/佛山公共.png" group-title="广东",佛山公共（电信高清）
-http://113.76.148.7:4022/udp/239.253.43.53:5146
 #EXTINF:-1,tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://epg.112114.eu.org/logo/佛山南海.png" group-title="广东",佛山南海
 http://php.jdshipin.com:8880/fstv.php?id=fsnh
 #EXTINF:-1,tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://epg.112114.eu.org/logo/佛山顺德.png" group-title="广东",佛山顺德
@@ -473,24 +459,7 @@ http://php.jdshipin.com:8880/chudian.php?id=wczh
 http://php.jdshipin.com:8880/chudian.php?id=lctv
 #EXTINF:-1,tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://epg.112114.eu.org/logo/潮安综合.png" group-title="广东",潮安综合
 http://php.jdshipin.com:8880/chudian.php?id=cazh
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.eu.org/logo/汕头综合.png" group-title="广东",汕头综合
-http://61.140.124.156:8888/udp/239.253.43.45:5146
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.eu.org/logo/汕头综合.png" group-title="广东",汕头综合
-http://119.135.126.34:4022/udp/239.77.1.130:5146
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.eu.org/logo/汕头综合.png" group-title="广东",汕头综合
-http://183.238.248.83:9000/udp/239.21.0.101:3744
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.eu.org/logo/汕头综合.png" group-title="广东",汕头综合
-http://www.namewee.xyz/gudou.php?id=shantouyitaogaoqing_4500
-#EXTINF:-1,tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.eu.org/logo/汕头经济生活.png" group-title="广东",汕头经济生活
-http://183.238.248.84:9000/udp/239.21.0.102:3748
-#EXTINF:-1,tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.eu.org/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
-http://183.238.248.83:9000/udp/239.21.0.103:3752
-#EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.eu.org/logo/揭阳综合.png" group-title="广东",揭阳综合（电信高清）
-http://183.30.202.137:8000/udp/239.77.0.229:5146
-#EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.eu.org/logo/揭阳生活.png" group-title="广东",揭阳生活（电信高清）
-http://183.30.202.137:8000/udp/239.77.0.251:5146
-#EXTINF:-1,tvg-id="揭西综合" tvg-name="揭西综合" tvg-logo="https://epg.112114.eu.org/logo/揭西综合.png" group-title="广东",揭西综合（电信）
-http://113.64.145.105:8081/hls/39/index.m3u8
+
 
 
 #湖南
@@ -1154,7 +1123,7 @@ http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
 http://livetv.skycf.eu.org/live.m3u8?c=7
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
-http://112.29.107.125:8182/TW/ztxw/hls.m3u8
+https://epg.pw/stream/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.m3u8
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
 http://livetv.skycf.eu.org/live.m3u8?c=6
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
@@ -1162,7 +1131,7 @@ rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
 https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="台湾",台视HD
-https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="台湾",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="台湾",民视新闻
