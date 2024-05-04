@@ -1056,17 +1056,17 @@ http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #香港
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
-http://mtw.so/6oKvgt
+mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
-https://iptv.hiper25.com/TVB/video.m3u8
+mitv://147.135.39.171:9906/6589b678000a0b12dcb5c12c717d2c19
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
 http://58.87.99.251:8090/HK/tvb/hls.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
 http://nz189l149.bb27109.ctm.net:8892/bysid/2
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
-https://iptv.hiper25.com/Pearl/video.m3u8
+mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.eu.org/logo/无线财经.png"group-title="香港",无线财经
 https://tv.iill.top/tvb/6
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.eu.org/logo/无线财经.png"group-title="香港",无线财经
