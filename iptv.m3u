@@ -1113,7 +1113,7 @@ http://66.165.240.154:8080/live/slxw01/hls.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="台湾",三立新闻台
 http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="台湾",东森新闻台
-http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="台湾",东森新闻台
 http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
@@ -1122,6 +1122,8 @@ http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 http://livetv.skycf.eu.org/live.m3u8?c=7
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
 https://epg.pw/stream/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.m3u8
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
+mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
 http://livetv.skycf.eu.org/live.m3u8?c=6
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
