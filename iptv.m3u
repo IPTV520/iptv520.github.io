@@ -1066,13 +1066,15 @@ http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #香港
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
-mitv://147.135.39.171:9906/6589b678000a0b12dcb5c12c717d2c19
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
-http://58.87.99.251:8090/HK/tvb/hls.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.eu.org/logo/TVB Plus.png"group-title="香港",TVB Plus
+http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.eu.org/logo/TVB Plus.png"group-title="香港",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
-http://nz189l149.bb27109.ctm.net:8892/bysid/2
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
-mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.eu.org/logo/无线财经.png"group-title="香港",无线财经
@@ -1082,11 +1084,11 @@ https://epg.pw/stream/2a431cef6854021ea00e737ccc8a4996cb4618297f939a720bbaeaef1d
 #EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY" tvg-logo="https://epg.112114.eu.org/logo/HOY.png" group-title="香港",HOY TV
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
 #EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.eu.org/logo/RTHK31.png" group-title="香港",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1,tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://epg.112114.eu.org/logo/RTHK35.png" group-title="香港",RTHK35
 https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="香港",RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1,tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.112114.eu.org/logo/RTHK33.png" group-title="香港",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="TVBJ1" tvg-name="J1" tvg-logo="https://epg.112114.eu.org/logo/TVBJ1.png" group-title="香港",TVBJ1
@@ -1098,11 +1100,17 @@ https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河（粤语）
 https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河（国语）
-http://ali.hlspull.yximgs.com/live/haioutvbxh.flv
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.eu.org/logo/香港卫视.png"group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="香港文旅" tvg-name="香港文旅" tvg-logo="https://epg.112114.eu.org/logo/香港文旅.png"group-title="香港",香港文旅
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 
 #台湾
