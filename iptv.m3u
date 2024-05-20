@@ -1119,37 +1119,29 @@ https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc
 #EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.eu.org/logo/耀才财经台.png" group-title="台湾",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://epg.112114.eu.org/logo/tvbs.png" group-title="台湾",tvbs新闻台
-https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv072
+#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.eu.org/logo/镜新闻.png" group-title="台湾",镜新闻
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv075
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="台湾",三立新闻台
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="台湾",三立新闻台
-http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="台湾",非凡新闻台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv010
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="台湾",东森新闻台
-mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.eu.org/logo/东森新闻台.png" group-title="台湾",东森新闻台
-http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv152
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
-http://livetv.skycf.eu.org/live.m3u8?c=7
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
-https://epg.pw/stream/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.m3u8
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.eu.org/logo/中天新聞.png" group-title="台湾",中天新聞
-mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv009
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="台湾",中视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=6
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视
-https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="台湾",台视HD
-https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv074
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.eu.org/logo/华视.png" group-title="台湾",华视新闻
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv052
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.eu.org/logo/台视.png" group-title="台湾",台视新闻
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv051
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻台.png" group-title="台湾",寰宇新闻台
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn14
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.eu.org/logo/民视.png" group-title="台湾",民视
-rtmp://f13h.mine.nu/sat/tv051
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv002
 #EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="台湾",民视新闻
-http://livetv.skycf.eu.org:80/live.m3u8?c=11
-#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="台湾",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv13
 #EXTINF:-1,tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.eu.org/logo/緯來日本.png" group-title="台湾",緯來日本
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1,tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.eu.org/logo/緯來育樂.png" group-title="台湾",緯來育樂
