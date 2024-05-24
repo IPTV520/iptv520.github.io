@@ -1173,12 +1173,18 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 #香港
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png"group-title="香港",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.eu.org/logo/华丽翡翠台.png"group-title="香港",华丽翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.eu.org/logo/TVB Plus.png"group-title="香港",TVB Plus
 http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 #EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.eu.org/logo/TVB Plus.png"group-title="香港",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.eu.org/logo/明珠台.png"group-title="香港",明珠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.eu.org/logo/VIUTV.png"group-title="香港",VIUTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1,tvg-id="ViuTVSix" tvg-name="ViuTVSix" tvg-logo="https://epg.112114.eu.org/logo/ViuTVSix.png"group-title="香港",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.eu.org/logo/无线新闻.png"group-title="香港",无线新闻
@@ -1195,10 +1201,16 @@ https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d7881
 http://ali.hlspull.yximgs.com/live/haioutvbj2.flv
 #EXTINF:-1,tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://epg.112114.eu.org/logo/娱乐新闻.png" group-title="香港",娱乐新闻
 https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.112114.eu.org/logo/千禧经典台.png" group-title="香港",千禧经典台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1,tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://epg.112114.eu.org/logo/Astro AOD.png" group-title="香港",Astro AOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河（粤语）
 https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.eu.org/logo/TVB星河.png" group-title="香港",TVB星河（国语）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.eu.org/logo/美亚电影台.png" group-title="香港",美亚电影台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.eu.org/logo/香港卫视.png"group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
@@ -1258,6 +1270,121 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1,tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://epg.112114.eu.org/logo/番薯台.png" group-title="台湾",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+
+#台湾娱乐
+#EXTINF:-1,group-title="台湾娱乐",猪哥亮歌厅秀
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv006
+#EXTINF:-1,group-title="台湾娱乐",影迷數位電影台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv011
+#EXTINF:-1,group-title="台湾娱乐",視納華仁紀實頻道
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv013
+#EXTINF:-1,group-title="台湾娱乐",时尚运动X
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv014
+#EXTINF:-1,group-title="台湾娱乐",GLOBETROTTER
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv016
+#EXTINF:-1,group-title="台湾娱乐",amc电影台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv017
+#EXTINF:-1,group-title="台湾娱乐",达文西频道
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv018
+#EXTINF:-1,group-title="台湾娱乐",八大精彩台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv034
+#EXTINF:-1,group-title="台湾娱乐",八大综艺台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv039
+#EXTINF:-1,group-title="台湾娱乐",公视戏剧
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv042
+#EXTINF:-1,group-title="台湾娱乐",客家电视台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv043
+#EXTINF:-1,group-title="台湾娱乐",靖天卡通台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv044
+#EXTINF:-1,group-title="台湾娱乐",靖洋戏剧台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv045
+#EXTINF:-1,group-title="台湾娱乐",靖天综合台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv046
+#EXTINF:-1,group-title="台湾娱乐",靖天日本台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv047
+#EXTINF:-1,group-title="台湾娱乐",靖天欢乐台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv054
+#EXTINF:-1,group-title="台湾娱乐",靖天映画
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv055
+#EXTINF:-1,group-title="台湾娱乐",靖洋卡通台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv057
+#EXTINF:-1,group-title="台湾娱乐",靖天戏剧台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv058
+#EXTINF:-1,group-title="台湾娱乐",古典音乐台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv059
+#EXTINF:-1,group-title="台湾娱乐",靖天电影台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv061
+#EXTINF:-1,group-title="台湾娱乐",靖天育乐台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv062
+#EXTINF:-1,group-title="台湾娱乐",靖天国际台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv063
+#EXTINF:-1,group-title="台湾娱乐",中视菁采
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv064
+#EXTINF:-1,group-title="台湾娱乐",靖天资讯台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv065
+#EXTINF:-1,group-title="台湾娱乐",非凡商业
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv048
+#EXTINF:-1,group-title="台湾娱乐",采昌影剧
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv049
+#EXTINF:-1,group-title="台湾娱乐",TVBS精采台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv067
+#EXTINF:-1,group-title="台湾娱乐",TVBS欢乐台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv068
+#EXTINF:-1,group-title="台湾娱乐",爱尔达娱乐
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv070
+#EXTINF:-1,group-title="台湾娱乐",CATCHPLAY电影台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
+#EXTINF:-1,group-title="台湾娱乐",TRACE SPORTS STARS
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv077
+#EXTINF:-1,group-title="台湾娱乐",阿里郎
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv079
+#EXTINF:-1,group-title="台湾娱乐",中视经典
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv080
+#EXTINF:-1,group-title="台湾娱乐",TRACE URBAN
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv082
+#EXTINF:-1,group-title="台湾娱乐",MEZZO LIVE
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv083
+#EXTINF:-1,group-title="台湾娱乐",智林体育台
+http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv101
+#EXTINF:-1,group-title="台湾娱乐",爱放动漫
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv15
+#EXTINF:-1,group-title="台湾娱乐",龙华卡通
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn01
+#EXTINF:-1,group-title="台湾娱乐",龙华电影
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn03
+#EXTINF:-1,group-title="台湾娱乐",博斯魅力
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn04
+#EXTINF:-1,group-title="台湾娱乐",博斯高球1
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn05
+#EXTINF:-1,group-title="台湾娱乐",博斯高球2
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn06
+#EXTINF:-1,group-title="台湾娱乐",博斯运动1
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn07
+#EXTINF:-1,group-title="台湾娱乐",博斯运动2
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn08
+#EXTINF:-1,group-title="台湾娱乐",博斯网球
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn09
+#EXTINF:-1,group-title="台湾娱乐",博斯无限
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn10
+#EXTINF:-1,group-title="台湾娱乐",龙华日韩
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn11
+#EXTINF:-1,group-title="台湾娱乐",龙华偶像
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn12
+#EXTINF:-1,group-title="台湾娱乐",博斯无限2,
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn13
+#EXTINF:-1,group-title="台湾娱乐",亚洲旅游台
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn17
+#EXTINF:-1,group-title="台湾娱乐",龙华戏剧
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn18
+#EXTINF:-1,group-title="台湾娱乐",Smart知识台
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
+#EXTINF:-1,group-title="台湾娱乐",生活英语台
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn20
+#EXTINF:-1,group-title="台湾娱乐",龙华经典
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn21
+#EXTINF:-1,group-title="台湾娱乐",台湾戏剧台
+http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn22
+
 
 
 
