@@ -316,7 +316,7 @@ http://183.11.239.36:808/hls/16/index.m3u8
 #EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.eu.org/logo/岭南戏曲.png" group-title="广东",岭南戏曲
 http://113.71.148.79:5555/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.eu.org/logo/广州综合.png" group-title="广东",广州综合
-http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+http://183.6.110.242:9901/hls/1054/index.m3u8
 #EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.eu.org/logo/广州新闻.png" group-title="广东",广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.eu.org/logo/广州影视.png" group-title="广东",广州影视
@@ -1256,6 +1256,123 @@ https://www.goodiptv.club/douyu/10298856
 https://www.goodiptv.club/douyu/1713615
 #EXTINF:-1 tvg-id="贝爷影厅" tvg-name="贝爷影厅" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/贝爷影厅.png" group-title="电影频道",贝爷求生
 https://www.goodiptv.club/douyu/9661369
+
+#台湾
+#EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/耀才财经台.png" group-title="台湾",耀才财经台
+https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+#EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/耀才财经台.png" group-title="台湾",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs " tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/tvbs新闻台.png" group-title="台湾",tvbs新闻台
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv072
+#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.eu.org/logo/镜新闻.png" group-title="台湾",镜新闻
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv075
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/三立新闻台.png" group-title="台湾",三立新闻台
+http://66.165.240.154:8080/live/slxw01/hls.m3u8
+#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.eu.org/logo/非凡新闻台.png" group-title="台湾",非凡新闻台
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv010
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/东森新闻台.png" group-title="台湾",东森新闻台
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv152
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/中天新聞.png" group-title="台湾",中天新聞
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv009
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/.png" group-title="台湾",中视新闻
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv074
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/.png" group-title="台湾",华视新闻
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv041
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/.png" group-title="台湾",台视新闻
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv051
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/寰宇新闻台.png" group-title="台湾",寰宇新闻台
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=litv-longturn14
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/民视.png" group-title="台湾",民视
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=4gtv-4gtv002
+#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/民视新闻.png" group-title="台湾",民视新闻
+http://104.233.187.235:2082/r-proxy?user=0duf_wxid_dx51ona15fi822&url=http://127.0.0.1/4GTV.php?id=litv-ftv13
+#EXTINF:-1,tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/緯來日本.png" group-title="台湾",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/緯來育樂.png" group-title="台湾",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/緯來體育.png" group-title="台湾",緯來體育
+https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+#EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/緯來體育.png" group-title="台湾",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/緯來體育.png" group-title="台湾",緯來體育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1,tvg-id="纬来篮球" tvg-name="纬来篮球" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/緯來篮球.png" group-title="台湾",纬来篮球
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1,tvg-id="C+" tvg-name="C+" tvg-logo="https://epg.112114.eu.org/logo/C+.png" group-title="台湾",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.112114.eu.org/logo/环球电视台.png" group-title="台湾",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,tvg-id="面包台" tvg-name="面包台" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/面包台.png" group-title="台湾",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/番薯台.png" group-title="台湾",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+
+
+
+
+#YouTuBe新闻
+#EXTINF:-1,tvg-id="新唐人" tvg-name="新唐人" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/新唐人.png" group-title="YouTuBe新闻",新唐人
+https://www.youtube.com/watch?v=WIhgU_mc05A
+#EXTINF:-1,tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/TVBS新聞.png" group-title="YouTuBe新闻",TVBS新聞
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1,tvg-id="TVBS NEWS LIVE" tvg-name="TVBS NEWS LIVE" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/TVBS NEWS LIVE.png" group-title="YouTuBe新闻",TVBS NEWS LIVE
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/民視新聞.png" group-title="YouTuBe新闻",民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/華視新聞.png" group-title="YouTuBe新闻",華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/中視新聞.png" group-title="YouTuBe新闻",中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/台視新聞.png" group-title="YouTuBe新闻",台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/中天新聞.png" group-title="YouTuBe新闻",中天新聞1台
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/中天新聞.png" group-title="YouTuBe新闻",中天新聞2台
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/寰宇新闻.png" group-title="YouTuBe新闻",寰宇新闻
+https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1,tvg-id="三立live" tvg-name="三立live" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/三立live.png" group-title="YouTuBe新闻",三立live
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+#EXTINF:-1,tvg-id="三立inews" tvg-name="三立inews" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/三立inews.png" group-title="YouTuBe新闻",三立inews
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/三立NEWS+.png" group-title="YouTuBe新闻",三立NEWS+
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+#EXTINF:-1,tvg-id="NHK WORLD" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/NHK WORLD.png" group-title="YouTuBe新闻",NHK WORLD
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+#EXTINF:-1,tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/Sky News.png" group-title="YouTuBe新闻",Sky News
+https://www.youtube.com/watch?v=w9uJg68CV4g
+#EXTINF:-1,tvg-id="FRANCE 24" tvg-name="FRANCE 24" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/FRANCE 24.png" group-title="YouTuBe新闻",FRANCE 24
+https://www.youtube.com/watch?v=h3MuIUNCCzI
+#EXTINF:-1,tvg-id="澳洲ABCNews" tvg-name="澳洲ABCNews" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/澳洲ABCNews.png" group-title="YouTuBe新闻",澳洲ABCNews
+https://www.youtube.com/watch?v=vOTiJkg1voo
+#EXTINF:-1,tvg-id="新唐人" tvg-name="新唐人" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/新唐人.png" group-title="YouTuBe新闻",Euronews English
+https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/DW.png" group-title="YouTuBe新闻",DW
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+#EXTINF:-1,tvg-id="CNN News" tvg-name="CNN News" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CNN News.png" group-title="YouTuBe新闻",CNN News
+https://www.youtube.com/watch?v=78UnBnAidZ0-
+#EXTINF:-1,tvg-id="KBS KOREA" tvg-name="KBS KOREA" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/KBS KOREA.png" group-title="YouTuBe新闻",KBS KOREA
+https://www.youtube.com/watch?v=HnfpTMtfFk8
+#EXTINF:-1,tvg-id="NBC NEW" tvg-name="NBC NEW" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/NBC NEW.png" group-title="YouTuBe新闻",NBC NEW
+https://www.youtube.com/watch?v=7-JR7DjKF_c
+#EXTINF:-1,tvg-id="Fox new" tvg-name="Fox new" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/Fox new.png" group-title="YouTuBe新闻",Fox new
+https://www.youtube.com/watch?v=YDfiTGGPYCk
+#EXTINF:-1,tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/凤凰卫视资讯.png" group-title="YouTuBe新闻",凤凰卫视资讯
+https://www.youtube.com/watch?v=HFib76ySpbU
+#EXTINF:-1,tvg-id="CCTV中文国际" tvg-name="CCTV中文国际" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV中文国际.png" group-title="YouTuBe新闻",CCTV中文国际
+https://www.youtube.com/watch?v=bEZYrBMYNNg
+#EXTINF:-1,tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/东森财经.png" group-title="YouTuBe新闻",东森财经股市
+https://www.youtube.com/watch?v=LbS-xQ67fos
+#EXTINF:-1,tvg-id="公視直播" tvg-name="公視直播" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/公視直播.png" group-title="YouTuBe新闻",公視直播
+https://www.youtube.com/watch?v=4Uc00FPs27M
+#EXTINF:-1,tvg-id="KOMPASTV" tvg-name="KOMPASTV" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/KOMPASTV.png" group-title="YouTuBe新闻",KOMPASTV
+https://www.youtube.com/watch?v=4rmf-lk3ito
+#EXTINF:-1,tvg-id="东京新宿" tvg-name="东京新宿" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/东京新宿.png" group-title="YouTuBe新闻",东京新宿
+https://www.youtube.com/watch?v=DjdUEyjx8GM
+#EXTINF:-1,tvg-id="Nat geo wild " tvg-name="Nat geo wild " tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/Nat geo wild .png" group-title="YouTuBe新闻",Nat geo wild 
+https://www.youtube.com/watch?v=BJ3Yv572V1A
+
+
 
 
 
