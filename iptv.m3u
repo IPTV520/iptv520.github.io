@@ -292,7 +292,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?
 
 #广东
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.eu.org/logo/广东综艺.png" group-title="广东",广东综艺
-http://116.23.178.177:88/hls/369348893/index.m3u8
+http://116.26.36.191:8088/udp/239.77.1.237:5146
 #EXTINF:-1,tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://epg.112114.eu.org/logo/南国都市.png" group-title="广东",南国都市
 http://116.26.36.191:8088/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东",广东体育
