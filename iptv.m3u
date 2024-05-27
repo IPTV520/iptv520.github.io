@@ -1267,6 +1267,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="YouTube「需魔法」",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.eu.org/logo/三立NEWS+.png" group-title="YouTube「需魔法」",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.eu.org/logo/中天新闻.png" group-title="YouTube「需魔法」",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.eu.org/logo/中天新闻.png" group-title="YouTube「需魔法」",中天新闻「循环直播」
@@ -1275,8 +1277,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="YouTube「需魔法」",中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.eu.org/logo/三立NEWS+.png" group-title="YouTube「需魔法」",三立NEWS+
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="YouTube「需魔法」",台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻.png" group-title="YouTube「需魔法」",寰宇新闻
@@ -1295,7 +1295,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1,tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.eu.org/logo/ABC NEWS.png"  group-title="YouTube「需魔法」",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1,tvg-id="TVBS NEW" tvg-name="TVBS NEW" tvg-logo="https://epg.112114.eu.org/logo/TVBS NEW.png" group-title="YouTube「需魔法」",TVBS NEW
+#EXTINF:-1,tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.eu.org/logo/TVBS NEWS.png" group-title="YouTube「需魔法」",TVBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1,tvg-id="TBS NEWS" tvg-name="TBS NEWS" tvg-logo="https://epg.112114.eu.org/logo/TBS NEWS.png"  group-title="YouTube「需魔法」",TBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
