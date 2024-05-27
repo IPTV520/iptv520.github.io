@@ -1295,7 +1295,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1,tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.eu.org/logo/ABC NEWS.png"  group-title="YouTube「需魔法」",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1,tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.eu.org/logo/TVBS NEWS.png" group-title="YouTube「需魔法」",TVBS NEWS
+#EXTINF:-1,tvg-id=",tvbs新闻台" tvg-name=",tvbs新闻台" tvg-logo="https://epg.112114.eu.org/logo/,tvbs新闻台.png" group-title="YouTube「需魔法」",,tvbs新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1,tvg-id="TBS NEWS" tvg-name="TBS NEWS" tvg-logo="https://epg.112114.eu.org/logo/TBS NEWS.png"  group-title="YouTube「需魔法」",TBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
