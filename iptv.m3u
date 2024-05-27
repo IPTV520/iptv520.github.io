@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="http://epg.112114.xyz/pp.xml"
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
@@ -1256,6 +1256,93 @@ https://www.goodiptv.club/douyu/10298856
 https://www.goodiptv.club/douyu/1713615
 #EXTINF:-1 tvg-id="贝爷影厅" tvg-name="贝爷影厅" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/贝爷影厅.png" group-title="电影频道",贝爷求生
 https://www.goodiptv.club/douyu/9661369
+
+
+#YouTube
+#EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://epg.112114.eu.org/logo/CCTV4中文国际.png"  group-title="YouTube「需魔法」",CCTV4中文国际
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰资讯.png"  group-title="YouTube「需魔法」",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰中文.png" group-title="YouTube「需魔法」",凤凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.eu.org/logo/三立新闻台.png" group-title="YouTube「需魔法」",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.eu.org/logo/中天新闻.png" group-title="YouTube「需魔法」",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.eu.org/logo/中天新闻.png" group-title="YouTube「需魔法」",中天新闻「循环直播」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1,tvg-id="DW NEWS" tvg-name="DW NEWS" tvg-logo="https://epg.112114.eu.org/logo/DW NEWS.png"  group-title="YouTube「需魔法」",DW NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.eu.org/logo/中视新闻.png" group-title="YouTube「需魔法」",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.eu.org/logo/三立NEWS+.png" group-title="YouTube「需魔法」",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.eu.org/logo/台视新闻.png" group-title="YouTube「需魔法」",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.eu.org/logo/寰宇新闻.png" group-title="YouTube「需魔法」",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.eu.org/logo/镜新闻.png" group-title="YouTube「需魔法」",镜新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1,tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.112114.eu.org/logo/东森财经新闻.png" group-title="YouTube「需魔法」",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1,tvg-id="运通财经" tvg-name="运通财经" tvg-logo="https://epg.112114.eu.org/logo/运通财经.png"  group-title="YouTube「需魔法」",运通财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1,tvg-id="信大" tvg-name="信大" tvg-logo="https://epg.112114.eu.org/logo/信大.png" group-title="YouTube「需魔法」",信大
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.eu.org/logo/民视新闻.png" group-title="YouTube「需魔法」",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1,tvg-id="K-POP" tvg-name="K-POP" tvg-logo="https://epg.112114.eu.org/logo/K-POP.png" group-title="YouTube「需魔法」",K-POP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1,tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.eu.org/logo/ABC NEWS.png"  group-title="YouTube「需魔法」",ABC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1,tvg-id="TVBS网路新闻" tvg-name="TVBS网路新闻" tvg-logo="https://epg.112114.eu.org/logo/TVBS网路新闻.png" group-title="YouTube「需魔法」",TVBS网路新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1,tvg-id="TBS NEWS" tvg-name="TBS NEWS" tvg-logo="https://epg.112114.eu.org/logo/TBS NEWS.png"  group-title="YouTube「需魔法」",TBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1,tvg-id="ANN NEWS" tvg-name="ANN NEWS" tvg-logo="https://epg.112114.eu.org/logo/ANN NEWS.png" group-title="YouTube「需魔法」",ANN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.eu.org/logo/CNA.png" group-title="YouTube「需魔法」",CNA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1,tvg-id="HTB NEWS" tvg-name="HTB NEWS" tvg-logo="https://epg.112114.eu.org/logo/HTB NEWS.png" group-title="YouTube「需魔法」",HTB NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1,tvg-id="KANSAI NEWS" tvg-name="KANSAI NEWS" tvg-logo="https://epg.112114.eu.org/logo/KANSAI NEWS.png" group-title="YouTube「需魔法」",KANSAI NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1,tvg-id="KBS NEWS" tvg-name="KBS NEWS" tvg-logo="https://epg.112114.eu.org/logo/KBS NEWS.png" group-title="YouTube「需魔法」",KBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+#EXTINF:-1,tvg-id="CBN NEWS" tvg-name="CBN NEWS" tvg-logo="https://epg.112114.eu.org/logo/CBN NEWS.png" group-title="YouTube「需魔法」",CBN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.eu.org/logo/半岛新闻.png" group-title="YouTube「需魔法」",半岛新闻「英语」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1,tvg-id="NBC NEWS" tvg-name="NBC NEWS" tvg-logo="https://epg.112114.eu.org/logo/NBC NEWS.png" group-title="YouTube「需魔法」",NBC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1,tvg-id="Taiwan+" tvg-name="Taiwan+" tvg-logo="https://epg.112114.eu.org/logo/Taiwan+.png" group-title="YouTube「需魔法」",Taiwan+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1,tvg-id="天才冲冲冲" tvg-name="天才冲冲冲" tvg-logo="https://epg.112114.eu.org/logo/天才冲冲冲.png" group-title="YouTube「需魔法」",天才冲冲冲「综艺」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1,tvg-id="ASTRO AWANI" tvg-name="ASTRO AWANI" tvg-logo="https://epg.112114.eu.org/logo/ASTRO AWANI.png" group-title="YouTube「需魔法」",ASTRO AWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1,tvg-id="Top Hits 2023" tvg-name="Top Hits 2023" tvg-logo="https://epg.112114.eu.org/logo/Top Hits 2023.png" group-title="YouTube「需魔法」",Top Hits 2023
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000552/ei/COFiZcvRGIT02roPqOSxmA0/ip/223.16.10.147/id/lVmOUVRDKE8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/hk/siu/1/spc/UWF9f83M7303sjCXjsXVE1yQt6ryeowuVCtl8-NPRlO8Ilz8BmdW7Qg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgOpmfsCPmkYrdJ_goBk8U8MF9DRpywkSihOeA1a49LqwCIQDwE7e9ONbosFmgeV7YGp0_p9BK-aGAjy9A5z3o8vZXhA%3D%3D/file/index.m3u8
+#EXTINF:-1,tvg-id="Tokyo Shibuya" tvg-name="Tokyo Shibuya" tvg-logo="https://epg.112114.eu.org/logo/Tokyo Shibuya.png" group-title="YouTube「需魔法」",Tokyo Shibuya「东京涩谷」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1,tvg-id="东森幼幼歌曲" tvg-name="东森幼幼歌曲" tvg-logo="https://epg.112114.eu.org/logo/东森幼幼歌曲.png"  group-title="YouTube「需魔法」",东森幼幼歌曲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1,tvg-id="INDIA TODAY" tvg-name="INDIA TODAY" tvg-logo="https://epg.112114.eu.org/logo/INDIA TODAY.png" group-title="YouTube「需魔法」",INDIA TODAY
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1,tvg-id="FRANCE 24" tvg-name="FRANCE 24" tvg-logo="https://epg.112114.eu.org/logo/FRANCE 24.png" group-title="YouTube「需魔法」",FRANCE 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1,tvg-id="大爱" tvg-name="大爱" tvg-logo="https://epg.112114.eu.org/logo/大爱.png"  group-title="YouTube「需魔法」",大爱
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1,tvg-id="大爱2" tvg-name="大爱2" tvg-logo="https://epg.112114.eu.org/logo/大爱2.png" group-title="YouTube「需魔法」",大爱2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1,tvg-id="国会频道" tvg-name="国会频道" tvg-logo="https://epg.112114.eu.org/logo/国会频道.png" group-title="YouTube「需魔法」",国会频道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1,tvg-id="国会频道" tvg-name="国会频道" tvg-logo="https://epg.112114.eu.org/logo/国会频道.png" group-title="YouTube「需魔法」",国会频道2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1,tvg-id="123 GO LIVE" tvg-name="123 GO LIVE" tvg-logo="https://epg.112114.eu.org/logo/123 GO LIVE.png" group-title="YouTube「需魔法」",123 GO LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+
+
 
 
 
