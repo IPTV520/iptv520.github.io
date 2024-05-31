@@ -292,23 +292,23 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?
 
 #广东
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.eu.org/logo/广东综艺.png" group-title="广东",广东综艺
-http://183.30.201.187:10002/udp/239.77.0.244:5146
+http://113.83.248.175:4200/udp/239.77.0.245:5146
 #EXTINF:-1,tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://epg.112114.eu.org/logo/南国都市.png" group-title="广东",南国都市
-http://183.30.201.187:10002/udp/239.253.43.99:5146
+http://113.83.248.175:4200/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.eu.org/logo/广东体育.png" group-title="广东",广东体育
-http://183.30.201.187:10002/udp/239.77.0.112:5146
+http://113.83.248.175:4200/udp/239.77.0.112:5146
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江
 http://183.6.110.242:9901/hls/1050/index.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.eu.org/logo/广东珠江.png" group-title="广东",广东珠江（高清）
-http://113.71.148.79:5555/udp/239.77.0.1:5146
+http://113.83.248.175:4200/udp/239.77.0.1:5146
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.eu.org/logo/广东民生.png" group-title="广东",广东民生
-http://183.30.201.187:10002/udp/239.77.0.225:5146
+http://113.83.248.175:4200/udp/239.77.0.225:5146
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.eu.org/logo/广东新闻.png" group-title="广东",广东新闻
 http://183.6.110.242:9901/hls/1051/index.m3u8
 #EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.eu.org/logo/广东少儿.png" group-title="广东",广东少儿
-http://183.30.201.187:10002/udp/239.77.0.12:5146
+http://113.83.248.175:4200/udp/239.77.0.250:5146
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.eu.org/logo/广东影视.png" group-title="广东",广东影视
-http://183.30.201.187:10002/udp/239.77.0.217:5146
+http://113.83.248.175:4200/udp/239.77.0.217:5146
 #EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.eu.org/logo/岭南戏曲.png" group-title="广东",岭南戏曲
 http://183.11.239.36:808/hls/16/index.m3u8
 #EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.eu.org/logo/岭南戏曲.png" group-title="广东",岭南戏曲
