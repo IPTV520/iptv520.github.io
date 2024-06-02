@@ -1120,7 +1120,29 @@ http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1,tvg-id="漳浦综合" tvg-name="漳浦综合" tvg-logo="https://epg.112114.eu.org/logo/漳浦综合.png" group-title="福建",漳浦综合（福建）
 https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8
 
-
+#广西安徽甘肃西藏
+#EXTINF:-1,tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西安徽甘肃西藏",贺州综合(广西）
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+#EXTINF:-1,tvg-id="桂林新闻" tvg-name="桂林新闻" tvg-logo="https://epg.112114.eu.org/logo/桂林新闻.png" group-title="广西安徽甘肃西藏",桂林新闻（广西）
+https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+#EXTINF:-1,tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西安徽甘肃西藏",贺州综合（广西）
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
+#EXTINF:-1,tvg-id="桂林新闻" tvg-name="桂林新闻" tvg-logo="https://epg.112114.eu.org/logo/桂林新闻.png" group-title="广西安徽甘肃西藏",桂林新闻（广西）
+https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+#EXTINF:-1,tvg-id="南寧新聞綜合" tvg-name="南寧新聞綜合" tvg-logo="https://epg.112114.eu.org/logo/南寧新聞綜合.png" group-title="广西安徽甘肃西藏",南寧新聞綜合（广西）
+rtmp://tv.qntv.net/channellive/ch1?zguizd
+#EXTINF:-1,tvg-id="池州综合" tvg-name="池州综合" tvg-logo="https://epg.112114.eu.org/logo/池州综合.png" group-title="广西安徽甘肃西藏",池州综合（安徽）
+http://wjsp.chiznews.com:8037/live/xwzh.m3u8
+#EXTINF:-1,tvg-id="安徽体育" tvg-name="安徽体育" tvg-logo="https://epg.112114.eu.org/logo/安徽体育.png" group-title="广西安徽甘肃西藏",安徽体育（安徽）
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1,tvg-id="安徽影視" tvg-name="安徽影視" tvg-logo="https://epg.112114.eu.org/logo/安徽影視.png" group-title="广西安徽甘肃西藏",安徽影視（安徽）
+https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv
+#EXTINF:-1,tvg-id="安徽綜藝體育" tvg-name="安徽綜藝體育" tvg-logo="https://epg.112114.eu.org/logo/安徽綜藝體育.png" group-title="广西安徽甘肃西藏",安徽綜藝體育（安徽）
+https://epg.pw/stream/52a67a7e9039d1da74047e93f2e80984a72f6c4103046de2f54f89c6b9607514.m3u8
+#EXTINF:-1,tvg-id="崆峒综合" tvg-name="崆峒综合" tvg-logo="https://epg.112114.eu.org/logo/崆峒综合.png" group-title="广西安徽甘肃西藏",崆峒综合(甘肃)
+http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
+#EXTINF:-1,tvg-id="安多衛視" tvg-name="安多衛視" tvg-logo="https://epg.112114.eu.org/logo/安多衛視.png" group-title="广西安徽甘肃西藏",安多衛視（西藏）
+https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
 
 
 #咪咕体育/44个频道
@@ -1214,40 +1236,6 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1,group-title="移动咪咕",咪足IPV6
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-
-
-
-
-
-
-
-
-#广西安徽甘肃西藏
-#EXTINF:-1,tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西安徽甘肃西藏",贺州综合(广西）
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-#EXTINF:-1,tvg-id="桂林新闻" tvg-name="桂林新闻" tvg-logo="https://epg.112114.eu.org/logo/桂林新闻.png" group-title="广西安徽甘肃西藏",桂林新闻（广西）
-https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
-#EXTINF:-1,tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://epg.112114.eu.org/logo/贺州综合.png" group-title="广西安徽甘肃西藏",贺州综合（广西）
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
-#EXTINF:-1,tvg-id="桂林新闻" tvg-name="桂林新闻" tvg-logo="https://epg.112114.eu.org/logo/桂林新闻.png" group-title="广西安徽甘肃西藏",桂林新闻（广西）
-https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
-#EXTINF:-1,tvg-id="南寧新聞綜合" tvg-name="南寧新聞綜合" tvg-logo="https://epg.112114.eu.org/logo/南寧新聞綜合.png" group-title="广西安徽甘肃西藏",南寧新聞綜合（广西）
-rtmp://tv.qntv.net/channellive/ch1?zguizd
-#EXTINF:-1,tvg-id="池州综合" tvg-name="池州综合" tvg-logo="https://epg.112114.eu.org/logo/池州综合.png" group-title="广西安徽甘肃西藏",池州综合（安徽）
-http://wjsp.chiznews.com:8037/live/xwzh.m3u8
-#EXTINF:-1,tvg-id="安徽体育" tvg-name="安徽体育" tvg-logo="https://epg.112114.eu.org/logo/安徽体育.png" group-title="广西安徽甘肃西藏",安徽体育（安徽）
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1,tvg-id="安徽影視" tvg-name="安徽影視" tvg-logo="https://epg.112114.eu.org/logo/安徽影視.png" group-title="广西安徽甘肃西藏",安徽影視（安徽）
-https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv
-#EXTINF:-1,tvg-id="安徽綜藝體育" tvg-name="安徽綜藝體育" tvg-logo="https://epg.112114.eu.org/logo/安徽綜藝體育.png" group-title="广西安徽甘肃西藏",安徽綜藝體育（安徽）
-https://epg.pw/stream/52a67a7e9039d1da74047e93f2e80984a72f6c4103046de2f54f89c6b9607514.m3u8
-#EXTINF:-1,tvg-id="崆峒综合" tvg-name="崆峒综合" tvg-logo="https://epg.112114.eu.org/logo/崆峒综合.png" group-title="广西安徽甘肃西藏",崆峒综合(甘肃)
-http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
-#EXTINF:-1,tvg-id="安多衛視" tvg-name="安多衛視" tvg-logo="https://epg.112114.eu.org/logo/安多衛視.png" group-title="广西安徽甘肃西藏",安多衛視（西藏）
-https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
-
-
-
 
 #电影频道
 #EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/邵氏影院.png" group-title="电影频道",邵氏影院
@@ -1397,9 +1385,6 @@ https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ul
 https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
 
 
-
-
-
 #YouTube
 #EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://epg.112114.eu.org/logo/CCTV4中文国际.png"  group-title="YouTube「需魔法」",CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -1483,18 +1468,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 #EXTINF:-1,tvg-id="123 GO LIVE" tvg-name="123 GO LIVE" tvg-logo="https://epg.112114.eu.org/logo/123 GO LIVE.png" group-title="YouTube「需魔法」",123 GO LIVE
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #历年春晚
