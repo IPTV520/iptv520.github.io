@@ -456,15 +456,471 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.eu.org/logo/香港卫视.png"group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+#TVB
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB", 翡翠台
+https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.112114.eu.org/logo/中天新闻.png" group-title="🇨🇳台湾",中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🇨🇳台湾",中视
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🇨🇳台湾",华视
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🇨🇳台湾",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="翡翠台 4K" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB", 翡翠台 4K
+https://mytv.btjson.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="TVB", 明珠台
+https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png" group-title="TVB", TVB Plus
+https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="TVB", 無線新聞台
+https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="TVB", 華語劇台
+https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="TVB", 鳳凰衛視中文台
+https://mytv.btjson.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="TVB", 鳳凰衛視資訊台
+https://mytv.btjson.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="TVB", 鳳凰衛視香港台
+https://mytv.btjson.us.kg/stream/tvb/null-19/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="TVB", 黃金翡翠台
+https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="TVB", 黃金華劇台
+https://mytv.btjson.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="TVB", 亞洲劇台
+https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="TVB", 亞洲新聞台
+https://mytv.btjson.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="TVB", 創世電視
+https://mytv.btjson.us.kg/stream/tvb/null-15/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="TVB", 千禧經典台
+https://mytv.btjson.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="TVB", 天映經典頻道
+https://mytv.btjson.us.kg/stream/tvb/null-12/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="TVB", 娛樂新聞台
+https://mytv.btjson.us.kg/stream/tvb/null-9/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="TVB", 戲曲台
+https://mytv.btjson.us.kg/stream/tvb/null-10/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="TVB", 東方衛視國際頻道
+https://mytv.btjson.us.kg/stream/tvb/null-16/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="TVB", 無線衛星亞洲台
+https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="TVB", 無線衛星新聞台
+https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="神州新聞台" tvg-name="神州新聞台" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="TVB", 神州新聞台
+https://mytv.btjson.us.kg/stream/tvb/null-21/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="TVB", 粵語片台
+https://mytv.btjson.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="TVB", 美亞電影台
+https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="TVB", 中國電影頻道
+https://mytv.btjson.us.kg/stream/tvb/null-13/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="TVB", Animax
+https://mytv.btjson.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="TVB", Arirang TV
+https://mytv.btjson.us.kg/stream/tvb/arirangtv/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="TVB", AXN
+https://mytv.btjson.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="CGTN-1" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="TVB", CGTN (中國環球電視網)英語頻道
+https://mytv.btjson.us.kg/stream/tvb/cgtn-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="TVB", CGTN (中國環球電視網)記錄頻道
+https://mytv.btjson.us.kg/stream/tvb/cgtn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="NHK-World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="TVB", NHK World-Japan
+https://mytv.btjson.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="TVB", Nick Jr.
+https://mytv.btjson.us.kg/stream/tvb/nickjr/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="TVB", Nickelodeon
+https://mytv.btjson.us.kg/stream/tvb/nickelodeon/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="TVB", PopC
+https://mytv.btjson.us.kg/stream/tvb/popc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="ROCK-Action" tvg-name="ROCK Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="TVB", ROCK Action
+https://mytv.btjson.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="TVB", ROCK 綜藝娛樂
+https://mytv.btjson.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="TVB", 
+https://mytv.btjson.us.kg/stream/tvb/superkidschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="TVB", Thrill
+https://mytv.btjson.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="TVB", tvN
+https://mytv.btjson.us.kg/stream/tvb/tvn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="TVB", ZooMoo
+https://mytv.btjson.us.kg/stream/tvb/zoomoo/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="TVB", 中央電視台綜合頻道 (港澳版)
+https://mytv.btjson.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="TVB", 半島電視台英語頻道
+https://mytv.btjson.us.kg/stream/tvb/null-24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="TVB", DW
+https://mytv.btjson.us.kg/stream/tvb/dw/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="TVB", FashionBox
+https://mytv.btjson.us.kg/stream/tvb/fashionbox/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="France-24" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="TVB", France 24
+https://mytv.btjson.us.kg/stream/tvb/france24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Global-Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="TVB", Global Trekker
+https://mytv.btjson.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="TVB", KIX
+https://mytv.btjson.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Love-Nature-HD" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="TVB", Love Nature HD
+https://mytv.btjson.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Love-Nature-4K" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="TVB", Love Nature 4K
+https://mytv.btjson.us.kg/stream/tvb/lovenature4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="TVB", Mezzo Live HD
+https://mytv.btjson.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", myTV SUPER FREE
+https://mytv.btjson.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="TVB", myTV SUPER 18台
+https://mytv.btjson.us.kg/stream/tvb/mytvsuper18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", myTV SUPER 直播足球3台
+https://mytv.btjson.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", myTV SUPER 直播足球4台
+https://mytv.btjson.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", myTV SUPER 直播足球5台
+https://mytv.btjson.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", myTV SUPER 直播足球6台
+https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+#台湾4GTV
+#EXTINF:-1 tvg-id="AMC 最愛電影" tvg-name="AMC 最愛電影" tvg-logo="https://assets.livednow.com/logo/AMC 最愛電影.png" group-title="4GTV[需魔法]", AMC 最愛電影
+http://xg.52sw.top:5000/litv/4GTV-4GTV017
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang TV.png" group-title="4GTV[需魔法]", Arirang TV
+http://xg.52sw.top:5000/litv/4GTV-4GTV079
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/Bloomberg TV.png" group-title="4GTV[需魔法]", Bloomberg TV
+http://xg.52sw.top:5000/4GTV/283
+#EXTINF:-1 tvg-id="CatchPlay 電影台" tvg-name="CatchPlay 電影台" tvg-logo="https://assets.livednow.com/logo/CatchPlay 電影台.png" group-title="4GTV[需魔法]",CatchPlay 電影台
+http://xg.52sw.top:5000/litv/4GTV-4GTV076
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI 罪案偵查頻道.png" group-title="4GTV[需魔法]",CI 罪案偵查頻道
+http://xg.52sw.top:5000/4GTV/215
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="4GTV", CinemaWorld
+http://xg.52sw.top:5000/4GTV/225
+#EXTINF:-1 tvg-id="Classica 古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica 古典樂.png" group-title="4GTV[需魔法]", Classica 古典樂
+http://xg.52sw.top:5000/litv/4GTV-4GTV059
+#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC Asia 財經台.png" group-title="4GTV[需魔法]", CNBC Asia 財經台
+http://xg.52sw.top:5000/4GTV/235
+#EXTINF:-1 tvg-id="夢工廠動畫" tvg-name="夢工廠動畫" tvg-logo="https://assets.livednow.com/logo/夢工廠動畫.png" group-title="4GTV[需魔法]", DreamWorks 夢工廠動畫
+http://xg.52sw.top:5000/4GTV/282
+#EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://assets.livednow.com/logo/DW德國之聲.png" group-title="4GTV[需魔法]", DW德國之聲
+http://xg.52sw.top:5000/4GTV/226
+#EXTINF:-1 tvg-id="ELTA 生活旅遊" tvg-name="ELTA 生活旅遊" tvg-logo="https://assets.livednow.com/logo/ELTA 生活旅遊.png" group-title="4GTV[需魔法]", ELTA 生活旅遊
+http://xg.52sw.top:5000/4GTV/237
+#EXTINF:-1 tvg-id="ELTA 娛樂台" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA 娛樂台.png" group-title="4GTV[需魔法]", ELTA 娛樂台
+http://xg.52sw.top:5000/litv/4GTV-4GTV070
+#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTA生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="4GTV[需魔法]", ELTA生活英語
+http://xg.52sw.top:5000/litv/litv-longturn20
+#EXTINF:-1 tvg-id="Fun 探索娛樂台" tvg-name="Fun 探索娛樂台" tvg-logo="https://assets.livednow.com/logo/Fun 探索娛樂台.png" group-title="4GTV[需魔法]", Fun 探索娛樂台
+http://xg.52sw.top:5000/4GTV/274
+#EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX Esports TV.png" group-title="4GTV[需魔法]", GINX Esports TV
+http://xg.52sw.top:5000/litv/4GTV-4GTV053
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global Trekker.png" group-title="4GTV[需魔法]", Global Trekker
+http://xg.52sw.top:5000/4GTV/252
+#EXTINF:-1 tvg-id="Globetrotter 環遊旅行家" tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter 環遊旅行家.png" group-title="4GTV[需魔法]", Globetrotter 環遊旅行家
+http://xg.52sw.top:5000/litv/4GTV-4GTV016
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History 歷史頻道.png" group-title="4GTV[需魔法]", History 歷史頻道
+http://xg.52sw.top:5000/4GTV/214
+#EXTINF:-1 tvg-id="HITS 頻道" tvg-name="HITS 頻道" tvg-logo="https://assets.livednow.com/logo/HITS 頻道.png" group-title="4GTV[需魔法]", HITS 頻道
+http://xg.52sw.top:5000/4GTV/186
+#EXTINF:-1 tvg-id=" i-Fun 動漫台" tvg-name=" i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/ i-Fun 動漫台.png" group-title="4GTV[需魔法]", i-Fun 動漫台
+http://xg.52sw.top:5000/litv/litv-ftv15
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://assets.livednow.com/logo/Lifetime 娛樂頻道.png" group-title="4GTV[需魔法]", Lifetime 娛樂頻道
+http://xg.52sw.top:5000/4GTV/217
+#EXTINF:-1 tvg-id="LiveABC 互動英語台" tvg-name="LiveABC 互動英語台" tvg-logo="https://assets.livednow.com/logo/LiveABC 互動英語台.png" group-title="4GTV[需魔法]", LiveABC 互動英語台
+http://xg.52sw.top:5000/4GTV/188
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love Nature.png" group-title="4GTV[需魔法]", Love Nature
+http://xg.52sw.top:5000/4GTV/139
+#EXTINF:-1 tvg-id="LUXE TV" tvg-name="LUXE TV" tvg-logo="https://assets.livednow.com/logo/LUXE TV.png" group-title="4GTV[需魔法]", LUXE TV
+http://xg.52sw.top:5000/4GTV/175
+#EXTINF:-1 tvg-id="Mezzo Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo Live.png" group-title="4GTV[需魔法]", Mezzo Live
+http://xg.52sw.top:5000/litv/4GTV-4GTV083
+#EXTINF:-1 tvg-id="MOMO 親子台" tvg-name="MOMO 親子台" tvg-logo="https://assets.livednow.com/logo/MOMO 親子台.png" group-title="4GTV[需魔法]", MOMO 親子台
+http://xg.52sw.top:5000/4GTV/231
+#EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://assets.livednow.com/logo/MTV Live HD 音樂頻道.png" group-title="4GTV[需魔法]", MTV Live HD 音樂頻道
+http://xg.52sw.top:5000/4GTV/213
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://assets.livednow.com/logo/My Cinema Europe HD 我的歐洲電影.png" group-title="4GTV[需魔法]", My Cinema Europe HD 我的歐洲電影
+http://xg.52sw.top:5000/4GTV/176
+#EXTINF:-1 tvg-id="兒童頻道" tvg-name="兒童頻道" tvg-logo="https://assets.livednow.com/logo/兒童頻道.png" group-title="4GTV[需魔法]", Nick Jr. 兒童頻道
+http://xg.52sw.top:5000/4GTV/219
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="4GTV[需魔法]", Nickelodeon
+http://xg.52sw.top:5000/4GTV/185
+#EXTINF:-1 tvg-id=" Pet Club TV" tvg-name=" Pet Club TV" tvg-logo="https://assets.livednow.com/logo/ Pet Club TV.png" group-title="4GTV[需魔法]", Pet Club TV
+http://xg.52sw.top:5000/4GTV/182
+#EXTINF:-1 tvg-id="Rock Action" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock Action.png" group-title="4GTV[需魔法]", Rock Action
+http://xg.52sw.top:5000/4GTV/180
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://assets.livednow.com/logo/Rock Entertainment.png" group-title="4GTV[需魔法]", Rock Entertainment
+http://xg.52sw.top:5000/4GTV/275
+#EXTINF:-1 tvg-id="SBN 全球財經台" tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN 全球財經台.png" group-title="4GTV[需魔法]", SBN 全球財經台
+http://xg.52sw.top:5000/4GTV/224
+#EXTINF:-1 tvg-id="Smart 知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart 知識台.png" group-title="4GTV[需魔法]", Smart 知識台
+http://xg.52sw.top:5000/litv/litv-longturn19
+#EXTINF:-1 tvg-id=" TechStorm" tvg-name=" TechStorm" tvg-logo="https://assets.livednow.com/logo/ TechStorm.png" group-title="4GTV[需魔法]", TechStorm
+http://xg.52sw.top:5000/4GTV/181
+#EXTINF:-1 tvg-id=" Trace Urban" tvg-name=" Trace Urban" tvg-logo="https://assets.livednow.com/logo/ Trace Urban.png" group-title="4GTV[需魔法]", Trace Urban
+http://xg.52sw.top:5000/litv/4GTV-4GTV082
+#EXTINF:-1 tvg-id="TraceSports" tvg-name="TraceSports" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="4GTV[需魔法]", TraceSports
+http://xg.52sw.top:5000/litv/4GTV-4GTV077
+#EXTINF:-1 tvg-id=" TV5MONDE Style" tvg-name=" TV5MONDE Style" tvg-logo="https://assets.livednow.com/logo/ TV5MONDE Style.png" group-title="4GTV[需魔法]", TV5MONDE Style
+http://xg.52sw.top:5000/4GTV/178
+#EXTINF:-1 tvg-id=" 4GTVS 台劇台" tvg-name=" 4GTVS 台劇台" tvg-logo="https://assets.livednow.com/logo/ 4GTVS 台劇台.png" group-title="4GTV[需魔法]", 4GTVS 台劇台
+http://xg.52sw.top:5000/4GTV/285
+#EXTINF:-1 tvg-id=" 4GTVS 新聞台" tvg-name=" 4GTVS 新聞台" tvg-logo="https://assets.livednow.com/logo/ 4GTVS 新聞台.png" group-title="4GTV[需魔法]", 4GTVS 新聞台
+http://xg.52sw.top:5000/litv/4GTV-4GTV072
+#EXTINF:-1 tvg-id="4GTVS 精采台" tvg-name="4GTVS 精采台" tvg-logo="https://assets.livednow.com/logo/4GTVS 精采台.png" group-title="4GTV[需魔法]", 4GTVS 精采台
+http://xg.52sw.top:5000/litv/4GTV-4GTV067
+#EXTINF:-1 tvg-id="4GTVS 綜藝台" tvg-name="4GTVS 綜藝台" tvg-logo="https://assets.livednow.com/logo/4GTVS 綜藝台.png" group-title="4GTV[需魔法]", 4GTVS 綜藝台
+http://xg.52sw.top:5000/4GTV/284
+#EXTINF:-1 tvg-id="4GTVS 歡樂台" tvg-name="4GTVS 歡樂台" tvg-logo="https://assets.livednow.com/logo/4GTVS 歡樂台.png" group-title="4GTV[需魔法]", 4GTVS 歡樂台
+http://xg.52sw.top:5000/litv/4GTV-4GTV068
+#EXTINF:-1 tvg-id="4GTVS" tvg-name="4GTVS" tvg-logo="https://assets.livednow.com/logo/4GTVS.png" group-title="4GTV", 4GTVS
+http://xg.52sw.top:5000/litv/4GTV-4GTV073
+#EXTINF:-1 tvg-id="VOA 美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA 美國之音.png" group-title="4GTV[需魔法]", VOA 美國之音
+http://xg.52sw.top:5000/litv/litv-ftv03
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="4GTV[需魔法]", 人間衛視
+http://xg.52sw.top:5000/4GTV/210
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="4GTV[需魔法]", 八大精彩台
+http://xg.52sw.top:5000/litv/4GTV-4GTV034
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="4GTV[需魔法]", 八大綜藝台
+http://xg.52sw.top:5000/litv/4GTV-4GTV039
+#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="4GTV[需魔法]", 三立新聞
+http://xg.52sw.top:5000/4GTV/229
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="4GTV[需魔法]", 三立綜合台
+http://xg.52sw.top:5000/4GTV/169
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="4GTV[需魔法]", 大愛電視
+http://xg.52sw.top:5000/4GTV/209
+#EXTINF:-1 tvg-id="大愛電視2" tvg-name="大愛電視2" tvg-logo="https://assets.livednow.com/logo/大愛電視2.png" group-title="4GTV[需魔法]", 大愛電視2
+http://xg.52sw.top:5000/4GTV/230
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="4GTV[需魔法]", 中天亞洲台
+http://xg.52sw.top:5000/litv/4GTV-4GTV109
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="4GTV[需魔法]", 中天新聞台
+http://xg.52sw.top:5000/litv/4GTV-4GTV009
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="4GTV", 中視
+http://xg.52sw.top:5000/litv/4GTV-4GTV040
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="4GTV[需魔法]", 中視菁采台
+http://xg.52sw.top:5000/litv/4GTV-4GTV064
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="4GTV[需魔法]",中視新聞台
+http://xg.52sw.top:5000/litv/4GTV-4GTV074
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="4GTV[需魔法]", 中視經典台
+http://xg.52sw.top:5000/litv/4GTV-4GTV080
+#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="4GTV[需魔法]", 公視戲劇台
+http://xg.52sw.top:5000/litv/4GTV-4GTV042
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="4GTV[需魔法]", 半島國際新聞台
+http://xg.52sw.top:5000/litv/litv-ftv10
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="4GTV[需魔法]", 台視
+http://xg.52sw.top:5000/litv/4GTV-4GTV066
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="4GTV[需魔法]", 台視財經台
+http://xg.52sw.top:5000/litv/4GTV-4GTV056
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="4GTV[需魔法]", 台視新聞台
+http://xg.52sw.top:5000/litv/4GTV-4GTV051
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="4GTV[需魔法]", 台灣戲劇台
+http://xg.52sw.top:5000/litv/litv-longturn22
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="4GTV", 民視
+http://xg.52sw.top:5000/litv/4GTV-4GTV155
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="4GTV[需魔法]", 民視台灣台
+http://xg.52sw.top:5000/litv/4GTV-4GTV001
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="4GTV[需魔法]", 民視旅遊台
+http://xg.52sw.top:5000/litv/litv-ftv07
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="4GTV[需魔法]", 民視第一台
+http://xg.52sw.top:5000/litv/4GTV-4GTV003
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="4GTV[需魔法]", 民視新聞台
+http://xg.52sw.top:5000/litv/litv-ftv13
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="4GTV[需魔法]", 民視綜藝台
+http://xg.52sw.top:5000/litv/4GTV-4GTV004
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="4GTV[需魔法]",民視影劇台
+http://xg.52sw.top:5000/litv/litv-ftv09
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="4GTV[需魔法]", 好消息
+http://xg.52sw.top:5000/litv/litv-ftv16
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="4GTV[需魔法]", 好消息2台
+http://xg.52sw.top:5000/litv/litv-ftv17
+#EXTINF:-1 tvg-id="車迷 TV" tvg-name="車迷 TV" tvg-logo="https://assets.livednow.com/logo/車迷 TV.png" group-title="4GTV[需魔法]", 車迷 TV
+http://xg.52sw.top:5000/4GTV/160
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="4GTV[需魔法]",亞洲旅遊台
+http://xg.52sw.top:5000/litv/litv-longturn17
+#EXTINF:-1 tvg-id="兒童卡通台" tvg-name="兒童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="4GTV[需魔法]", 兒童卡通台
+http://xg.52sw.top:5000/4GTV/269
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="4GTV[需魔法]", 幸福空間居家台
+http://xg.52sw.top:5000/4GTV/168
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="4GTV[需魔法]", 東森財經新聞
+http://xg.52sw.top:5000/litv/4GTV-4GTV153
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="4GTV[需魔法]", 東森新聞
+http://xg.52sw.top:5000/litv/4GTV-4GTV152
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://assets.livednow.com/logo/東森購物一台.png" group-title="4GTV[需魔法]", 東森購物一台
+http://xg.52sw.top:5000/4GTV/173
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://assets.livednow.com/logo/東森購物二台.png" group-title="4GTV[需魔法]", 東森購物二台
+http://xg.52sw.top:5000/4GTV/174
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://assets.livednow.com/logo/東森購物三台.png" group-title="4GTV[需魔法]", 東森購物三台
+http://xg.52sw.top:5000/4GTV/287
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://assets.livednow.com/logo/東森購物四台.png" group-title="4GTV[需魔法]", 東森購物四台
+http://xg.52sw.top:5000/4GTV/286
+#EXTINF:-1 tvg-id="花系列 經典劇場" tvg-name="花系列 經典劇場" tvg-logo="https://assets.livednow.com/logo/花系列 經典劇場.png" group-title="4GTV[需魔法]", 花系列 經典劇場
+http://xg.52sw.top:5000/4GTV/279
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="4GTV[需魔法]", 采昌影劇台
+http://xg.52sw.top:5000/litv/4GTV-4GTV049
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="4GTV[需魔法]", 金光布袋戲
+http://xg.52sw.top:5000/4GTV/236
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="4GTV[需魔法]", 非凡商業台
+http://xg.52sw.top:5000/litv/4GTV-4GTV048
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="4GTV[需魔法]", 非凡新聞台
+http://xg.52sw.top:5000/litv/4GTV-4GTV010
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="4GTV[需魔法]", 客家電視台
+http://xg.52sw.top:5000/litv/4GTV-4GTV043
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://assets.livednow.com/logo/原住民族電視台.png" group-title="4GTV[需魔法]", 原住民族電視台
+http://xg.52sw.top:5000/4GTV/273
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="4GTV[需魔法]", 時尚運動X
+http://xg.52sw.top:5000/4GTV/277
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png" group-title="4GTV[需魔法]", 國會頻道1
+http://xg.52sw.top:5000/litv/4GTV-4GTV084
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="4GTV[需魔法]", 國會頻道2
+http://xg.52sw.top:5000/litv/4GTV-4GTV085
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://assets.livednow.com/logo/第1商業台.png" group-title="4GTV[需魔法]", 第1商業台
+http://xg.52sw.top:5000/litv/4GTV-4GTV104
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="4GTV[需魔法]", 博斯高球二台
+http://xg.52sw.top:5000/litv/litv-longturn06
+ #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="4GTV[需魔法]",博斯高球台
+http://xg.52sw.top:5000/litv/litv-longturn05
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="4GTV[需魔法]",博斯無限二台
+http://xg.52sw.top:5000/litv/litv-longturn13
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="4GTV[需魔法]", 博斯無限台
+http://xg.52sw.top:5000/litv/litv-longturn10
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="4GTV[需魔法]", 博斯運動一台
+http://xg.52sw.top:5000/litv/litv-longturn07
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="4GTV[需魔法]", 博斯運動二台
+http://xg.52sw.top:5000/litv/litv-longturn08
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="4GTV[需魔法]", 博斯網球台
+http://xg.52sw.top:5000/litv/litv-longturn09
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="4GTV[需魔法]", 博斯魅力台
+http://xg.52sw.top:5000/litv/litv-longturn04
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="4GTV[需魔法]", 智林體育台
+http://xg.52sw.top:5000/litv/4GTV-4GTV101
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="4GTV[需魔法]", 華視
+http://xg.52sw.top:5000/litv/4GTV-4GTV041
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="4GTV[需魔法]", 華視新聞
+http://xg.52sw.top:5000/litv/4GTV-4GTV052
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="4GTV[需魔法]", 視納華仁紀實頻道
+http://xg.52sw.top:5000/litv/4GTV-4GTV013
+#EXTINF:-1 tvg-id="超人力霸王整套看" tvg-name="超人力霸王整套看" tvg-logo="https://assets.livednow.com/logo/超人力霸王整套看.png" group-title="4GTV[需魔法]", 超人力霸王整套看
+http://xg.52sw.top:5000/4GTV/278
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="4GTV[需魔法]", 經典卡通台
+http://xg.52sw.top:5000/4GTV/202
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="4GTV[需魔法]", 經典電影台
+http://xg.52sw.top:5000/4GTV/201
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="4GTV[需魔法]", 達文西頻道
+http://xg.52sw.top:5000/litv/4GTV-4GTV018
+#EXTINF:-1 tvg-id="電影免費看 2台" tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看 2台.png" group-title="4GTV[需魔法]", 電影免費看 2台
+http://xg.52sw.top:5000/4GTV/245
+#EXTINF:-1 tvg-id="電影原聲台 CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台 CMusic.png" group-title="4GTV[需魔法]", 電影原聲台 CMusic
+http://xg.52sw.top:5000/4GTV/218
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="4GTV[需魔法]", 靖天日本台
+http://xg.52sw.top:5000/litv/4GTV-4GTV047
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="4GTV[需魔法]", 靖天卡通台
+http://xg.52sw.top:5000/litv/4GTV-4GTV044
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="4GTV[需魔法]", 靖天育樂台
+http://xg.52sw.top:5000/litv/4GTV-4GTV062
+#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映畫台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="4GTV[需魔法]", 靖天映畫台
+http://xg.52sw.top:5000/litv/4GTV-4GTV055
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="4GTV[需魔法]", 靖天國際台
+http://xg.52sw.top:5000/litv/4GTV-4GTV063
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="4GTV[需魔法]", 靖天資訊台
+http://xg.52sw.top:5000/litv/4GTV-4GTV065
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="4GTV[需魔法]", 靖天電影台
+http://xg.52sw.top:5000/litv/4GTV-4GTV061
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="4GTV[需魔法]", 靖天綜合台
+http://xg.52sw.top:5000/litv/4GTV-4GTV046
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="4GTV[需魔法]", 靖天戲劇台
+http://xg.52sw.top:5000/litv/4GTV-4GTV058
+#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="4GTV[需魔法]", 靖天歡樂台
+http://xg.52sw.top:5000/litv/4GTV-4GTV054
+#EXTINF:-1 tvg-id="靖洋卡通 Nice Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通 Nice Bingo.png" group-title="4GTV[需魔法]",靖洋卡通 Nice Bingo
+http://xg.52sw.top:5000/litv/4GTV-4GTV057
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="4GTV[需魔法]", 靖洋戲劇台
+http://xg.52sw.top:5000/litv/4GTV-4GTV045
+#EXTINF:-1 tvg-id="滾動力 Rollor" tvg-name="滾動力 Rollor" tvg-logo="https://assets.livednow.com/logo/滾動力 Rollor.png" group-title="4GTV[需魔法]", 滾動力 Rollor
+http://xg.52sw.top:5000/4GTV/249
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="4GTV[需魔法]", 精選動漫台
+http://xg.52sw.top:5000/4GTV/204
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="4GTV[需魔法]", 影迷數位紀實台
+http://xg.52sw.top:5000/4GTV/212
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="4GTV[需魔法]", 影迷數位電影台
+http://xg.52sw.top:5000/litv/4GTV-4GTV011
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="4GTV[需魔法]", 豬哥亮歌廳秀
+http://xg.52sw.top:5000/litv/4GTV-4GTV006
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="4GTV[需魔法]", 寰宇財經台
+http://xg.52sw.top:5000/litv/litv-longturn23
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="4GTV[需魔法]", 寰宇新聞台
+http://xg.52sw.top:5000/litv/litv-longturn14
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="4GTV[需魔法]", 寰宇新聞台灣台
+http://xg.52sw.top:5000/litv/litv-longturn15
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="4GTV[需魔法]", 龍華日韓台
+http://xg.52sw.top:5000/litv/litv-longturn11
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="4GTV[需魔法]", 龍華卡通台
+http://xg.52sw.top:5000/litv/litv-longturn01
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="4GTV[需魔法]", 龍華偶像台
+http://xg.52sw.top:5000/litv/litv-longturn12
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="4GTV[需魔法]", 龍華經典台
+http://xg.52sw.top:5000/litv/litv-longturn21
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="4GTV[需魔法]",龍華電影台
+http://xg.52sw.top:5000/litv/litv-longturn03
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="4GTV[需魔法]", 龍華戲劇台
+http://xg.52sw.top:5000/litv/litv-longturn18
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看 1台.png" group-title="4GTV[需魔法]", 戲劇免費看 1台
+http://xg.52sw.top:5000/4GTV/270
+#EXTINF:-1 tvg-id="戲劇免費看 2台" tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看 2台.png" group-title="4GTV[需魔法]", 戲劇免費看 2台
+http://xg.52sw.top:5000/4GTV/244
+#EXTINF:-1 tvg-id=" 鏡電視新聞台" tvg-name=" 鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/ 鏡電視新聞台.png" group-title="4GTV[需魔法]", 鏡電視新聞台
+http://xg.52sw.top:5000/litv/4GTV-4GTV075
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://assets.livednow.com/logo/霹靂布袋戲.png" group-title="4GTV[需魔法]", 霹靂布袋戲
+http://xg.52sw.top:5000/4GTV/301
+
+
+
+
+
+
 
 
 
@@ -1244,28 +1700,349 @@ https://www.goodiptv.club/douyu/10298856
 https://www.goodiptv.club/douyu/1713615
 #EXTINF:-1 tvg-id="贝爷影厅" tvg-name="贝爷影厅" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/贝爷影厅.png" group-title="电影频道",贝爷求生
 https://www.goodiptv.club/douyu/9661369
-#EXTINF:-1 group-title="电影频道",斗鱼电影1
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 group-title="电影频道",斗鱼电影2
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-#EXTINF:-1 group-title="电影频道",斗鱼电影3
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 group-title="电影频道",YY电影台01
-https://live.metshop.top/yy/1382749892
-#EXTINF:-1 group-title="电影频道",YY电影台02
-https://live.metshop.top/yy/1382735573
-#EXTINF:-1 group-title="电影频道",YY电影台03
-https://live.metshop.top/yy/24921161
-#EXTINF:-1 group-title="电影频道",YY电影台04
-https://live.metshop.top/yy/1382736803
-#EXTINF:-1 group-title="电影频道",YY电影台05
-https://live.metshop.top/yy/1354930924
-#EXTINF:-1 group-title="电影频道",YY电影台06
-https://live.metshop.top/yy/1382745095
-#EXTINF:-1 group-title="电影频道",YY电影台07
-https://live.metshop.top/yy/1355171357
-#EXTINF:-1 group-title="电影频道",YY电影台08
-https://live.metshop.top/yy/24066336
+
+#Sports
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://assets.livednow.com/logo/A&E.png" group-title="Sports", A&E
+http://xg.52sw.top:5000/thetv/ae
+
+#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://assets.livednow.com/logo/ACC-Network.png" group-title="Sports", ACC Network
+http://xg.52sw.top:5000/thetv/acc-network
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://assets.livednow.com/logo/AMC.png" group-title="Sports", AMC
+http://xg.52sw.top:5000/thetv/amc
+
+#EXTINF:-1 tvg-id="American-Heroes-Channel" tvg-name="American Heroes Channel" tvg-logo="https://assets.livednow.com/logo/American-Heroes-Channel.png" group-title="Sports", American Heroes Channel
+http://xg.52sw.top:5000/thetv/american-heroes-channel
+
+#EXTINF:-1 tvg-id="Animal-Planet" tvg-name="Animal Planet" tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png" group-title="Sports", Animal Planet
+http://xg.52sw.top:5000/thetv/animal-planet
+
+#EXTINF:-1 tvg-id="BBC-America" tvg-name="BBC America" tvg-logo="https://assets.livednow.com/logo/BBC-America.png" group-title="Sports", BBC America
+http://xg.52sw.top:5000/thetv/bbc-america
+
+#EXTINF:-1 tvg-id="BBC-World-News-HD" tvg-name="BBC World News HD" tvg-logo="https://assets.livednow.com/logo/BBC-World-News-HD.png" group-title="Sports", BBC World News HD
+http://xg.52sw.top:5000/thetv/bbc-world-news-hd
+
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://assets.livednow.com/logo/BET.png" group-title="Sports", BET
+http://xg.52sw.top:5000/thetv/bet
+
+#EXTINF:-1 tvg-id="BET-Her" tvg-name="BET Her" tvg-logo="https://assets.livednow.com/logo/BET-Her.png" group-title="Sports", BET Her
+http://xg.52sw.top:5000/thetv/bet-her
+
+#EXTINF:-1 tvg-id="Bloomberg-TV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/Bloomberg-TV.png" group-title="Sports", Bloomberg TV
+http://xg.52sw.top:5000/thetv/bloomberg-tv
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://assets.livednow.com/logo/Boomerang.png" group-title="Sports", Boomerang
+http://xg.52sw.top:5000/thetv/boomerang
+
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://assets.livednow.com/logo/Bravo.png" group-title="Sports", Bravo
+http://xg.52sw.top:5000/thetv/bravo
+
+#EXTINF:-1 tvg-id="Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/Cartoon-Network.png" group-title="Sports", Cartoon Network
+http://xg.52sw.top:5000/thetv/cartoon-network
+
+#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="Sports", CBS Sports Network
+http://xg.52sw.top:5000/thetv/cbs-sports-network
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://assets.livednow.com/logo/Cinemax.png" group-title="Sports", Cinemax
+http://xg.52sw.top:5000/thetv/cinemax
+
+#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-logo="https://assets.livednow.com/logo/CMT.png" group-title="Sports", CMT
+http://xg.52sw.top:5000/thetv/cmt
+
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="Sports", CNBC
+http://xg.52sw.top:5000/thetv/cnbc
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="Sports", CNN
+http://xg.52sw.top:5000/thetv/cnn
+
+#EXTINF:-1 tvg-id="Comedy-Central" tvg-name="Comedy Central" tvg-logo="https://assets.livednow.com/logo/Comedy-Central.png" group-title="Sports", Comedy Central
+http://xg.52sw.top:5000/thetv/comedy-central
+
+#EXTINF:-1 tvg-id="Cooking-Channel" tvg-name="Cooking Channel" tvg-logo="https://assets.livednow.com/logo/Cooking-Channel.png" group-title="Sports", Cooking Channel
+http://xg.52sw.top:5000/thetv/cooking-channel
+
+#EXTINF:-1 tvg-id="Crime-&-Investigation-HD" tvg-name="Crime & Investigation HD" tvg-logo="https://assets.livednow.com/logo/Crime-&-Investigation-HD.png" group-title="Sports", Crime & Investigation HD
+http://xg.52sw.top:5000/thetv/crime-investigation-hd
+
+#EXTINF:-1 tvg-id="CSPAN" tvg-name="CSPAN" tvg-logo="https://assets.livednow.com/logo/CSPAN.png" group-title="Sports", CSPAN
+http://xg.52sw.top:5000/thetv/cspan
+
+#EXTINF:-1 tvg-id="CSPAN-2" tvg-name="CSPAN 2" tvg-logo="https://assets.livednow.com/logo/CSPAN-2.png" group-title="Sports", CSPAN 2
+http://xg.52sw.top:5000/thetv/cspan-2
+
+#EXTINF:-1 tvg-id="Destination-America" tvg-name="Destination America" tvg-logo="https://assets.livednow.com/logo/Destination-America.png" group-title="Sports", Destination America
+http://xg.52sw.top:5000/thetv/destination-america
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery.png" group-title="Sports", Discovery
+http://xg.52sw.top:5000/thetv/discovery
+
+#EXTINF:-1 tvg-id="Discovery-Family-Channel" tvg-name="Discovery Family Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Family-Channel.png" group-title="Sports", Discovery Family Channel
+http://xg.52sw.top:5000/thetv/discovery-family-channel
+
+#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="Sports", Discovery Life
+http://xg.52sw.top:5000/thetv/discovery-life
+
+#EXTINF:-1 tvg-id="Disney-Channel-(East)" tvg-name="Disney Channel (East)" tvg-logo="https://assets.livednow.com/logo/Disney-Channel-(East).png" group-title="Sports", Disney Channel (East)
+http://xg.52sw.top:5000/thetv/disney-channel-east
+
+#EXTINF:-1 tvg-id="Disney-Junior" tvg-name="Disney Junior" tvg-logo="https://assets.livednow.com/logo/Disney-Junior.png" group-title="Sports", Disney Junior
+http://xg.52sw.top:5000/thetv/disney-junior
+
+#EXTINF:-1 tvg-id="Disney-XD" tvg-name="Disney XD" tvg-logo="https://assets.livednow.com/logo/Disney-XD.png" group-title="Sports", Disney XD
+http://xg.52sw.top:5000/thetv/disney-xd
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://assets.livednow.com/logo/E!.png" group-title="Sports", E!
+http://xg.52sw.top:5000/thetv/e
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="Sports", ESPN
+http://xg.52sw.top:5000/thetv/espn
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://assets.livednow.com/logo/ESPN2.png" group-title="Sports", ESPN2
+http://xg.52sw.top:5000/thetv/espn2
+
+#EXTINF:-1 tvg-id="ESPNews" tvg-name="ESPNews" tvg-logo="https://assets.livednow.com/logo/ESPNews.png" group-title="Sports", ESPNews
+http://xg.52sw.top:5000/thetv/espnews
+
+#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://assets.livednow.com/logo/ESPNU.png" group-title="Sports", ESPNU
+http://xg.52sw.top:5000/thetv/espnu
+
+#EXTINF:-1 tvg-id="Food-Network" tvg-name="Food Network" tvg-logo="https://assets.livednow.com/logo/Food-Network.png" group-title="Sports", Food Network
+http://xg.52sw.top:5000/thetv/food-network
+
+#EXTINF:-1 tvg-id="Fox-Business-Network" tvg-name="Fox Business Network" tvg-logo="https://assets.livednow.com/logo/Fox-Business-Network.png" group-title="Sports", Fox Business Network
+http://xg.52sw.top:5000/thetv/fox-business-network
+
+#EXTINF:-1 tvg-id="FOX-News-Channel" tvg-name="FOX News Channel" tvg-logo="https://assets.livednow.com/logo/FOX-News-Channel.png" group-title="Sports", FOX News Channel
+http://xg.52sw.top:5000/thetv/fox-news-channel
+
+#EXTINF:-1 tvg-id="FOX-Sports-1" tvg-name="FOX Sports 1" tvg-logo="https://assets.livednow.com/logo/FOX-Sports-1.png" group-title="Sports", FOX Sports 1
+http://xg.52sw.top:5000/thetv/fox-sports-1
+
+#EXTINF:-1 tvg-id="FOX-Sports-2" tvg-name="FOX Sports 2" tvg-logo="https://assets.livednow.com/logo/FOX-Sports-2.png" group-title="Sports", FOX Sports 2
+http://xg.52sw.top:5000/thetv/fox-sports-2
+
+#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform" tvg-logo="https://assets.livednow.com/logo/Freeform.png" group-title="Sports", Freeform
+http://xg.52sw.top:5000/thetv/freeform
+
+#EXTINF:-1 tvg-id="Fuse-HD" tvg-name="Fuse HD" tvg-logo="https://assets.livednow.com/logo/Fuse-HD.png" group-title="Sports", Fuse HD
+http://xg.52sw.top:5000/thetv/fuse-hd
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets.livednow.com/logo/FX.png" group-title="Sports", FX
+http://xg.52sw.top:5000/thetv/fx
+
+#EXTINF:-1 tvg-id="FX-Movie" tvg-name="FX Movie" tvg-logo="https://assets.livednow.com/logo/FX-Movie.png" group-title="Sports", FX Movie
+http://xg.52sw.top:5000/thetv/fx-movie
+
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://assets.livednow.com/logo/FXX.png" group-title="Sports", FXX
+http://xg.52sw.top:5000/thetv/fxx
+
+#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="https://assets.livednow.com/logo/FYI.png" group-title="Sports", FYI
+http://xg.52sw.top:5000/thetv/fyi
+
+#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://assets.livednow.com/logo/Golf-Channel.png" group-title="Sports", Golf Channel
+http://xg.52sw.top:5000/thetv/golf-channel
+
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://assets.livednow.com/logo/Hallmark.png" group-title="Sports", Hallmark
+http://xg.52sw.top:5000/thetv/hallmark
+
+#EXTINF:-1 tvg-id="Hallmark-Drama-HD" tvg-name="Hallmark Drama HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Drama-HD.png" group-title="Sports", Hallmark Drama HD
+http://xg.52sw.top:5000/thetv/hallmark-drama-hd
+
+#EXTINF:-1 tvg-id="Hallmark-Movies-&-Mysteries-HD" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Movies-&-Mysteries-HD.png" group-title="Sports", Hallmark Movies & Mysteries HD
+http://xg.52sw.top:5000/thetv/hallmark-movies-mysteries-hd
+
+#EXTINF:-1 tvg-id="HBO-2-East" tvg-name="HBO 2 East" tvg-logo="https://assets.livednow.com/logo/HBO-2-East.png" group-title="Sports", HBO 2 East
+http://xg.52sw.top:5000/thetv/hbo-2-east
+
+#EXTINF:-1 tvg-id="HBO-Comedy-HD" tvg-name="HBO Comedy HD" tvg-logo="https://assets.livednow.com/logo/HBO-Comedy-HD.png" group-title="Sports", HBO Comedy HD
+http://xg.52sw.top:5000/thetv/hbo-comedy-hd
+
+#EXTINF:-1 tvg-id="HBO-East" tvg-name="HBO East" tvg-logo="https://assets.livednow.com/logo/HBO-East.png" group-title="Sports", HBO East
+http://xg.52sw.top:5000/thetv/hbo-east
+
+#EXTINF:-1 tvg-id="HBO-Family-East" tvg-name="HBO Family East" tvg-logo="https://assets.livednow.com/logo/HBO-Family-East.png" group-title="Sports", HBO Family East
+http://xg.52sw.top:5000/thetv/hbo-family-east
+
+#EXTINF:-1 tvg-id="HBO-Signature" tvg-name="HBO Signature" tvg-logo="https://assets.livednow.com/logo/HBO-Signature.png" group-title="Sports", HBO Signature
+http://xg.52sw.top:5000/thetv/hbo-signature
+
+#EXTINF:-1 tvg-id="HBO-Zone-HD" tvg-name="HBO Zone HD" tvg-logo="https://assets.livednow.com/logo/HBO-Zone-HD.png" group-title="Sports", HBO Zone HD
+http://xg.52sw.top:5000/thetv/hbo-zone-hd
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://assets.livednow.com/logo/HGTV.png" group-title="Sports", HGTV
+http://xg.52sw.top:5000/thetv/hgtv
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="Sports", History
+http://xg.52sw.top:5000/thetv/history
+
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" tvg-logo="https://assets.livednow.com/logo/HLN.png" group-title="Sports", HLN
+http://xg.52sw.top:5000/thetv/hln
+
+#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://assets.livednow.com/logo/IFC.png" group-title="Sports", IFC
+http://xg.52sw.top:5000/thetv/ifc
+
+#EXTINF:-1 tvg-id="Investigation-Discovery" tvg-name="Investigation Discovery" tvg-logo="https://assets.livednow.com/logo/Investigation-Discovery.png" group-title="Sports", Investigation Discovery
+http://xg.52sw.top:5000/thetv/investigation-discovery
+
+#EXTINF:-1 tvg-id="ION-Television-East-HD" tvg-name="ION Television East HD" tvg-logo="https://assets.livednow.com/logo/ION-Television-East-HD.png" group-title="Sports", ION Television East HD
+http://xg.52sw.top:5000/thetv/ion-television-east-hd
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://assets.livednow.com/logo/Lifetime.png" group-title="Sports", Lifetime
+http://xg.52sw.top:5000/thetv/lifetime
+
+#EXTINF:-1 tvg-id="LMN" tvg-name="LMN" tvg-logo="https://assets.livednow.com/logo/LMN.png" group-title="Sports", LMN
+http://xg.52sw.top:5000/thetv/lmn
+
+#EXTINF:-1 tvg-id="Logo" tvg-name="Logo" tvg-logo="https://assets.livednow.com/logo/Logo.png" group-title="Sports", Logo
+http://xg.52sw.top:5000/thetv/logo
+
+#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="Sports", MLB Network
+http://xg.52sw.top:5000/thetv/mlb-network
+
+#EXTINF:-1 tvg-id="MoreMAX" tvg-name="MoreMAX" tvg-logo="https://assets.livednow.com/logo/MoreMAX.png" group-title="Sports", MoreMAX
+http://xg.52sw.top:5000/thetv/moremax
+
+#EXTINF:-1 tvg-id="MotorTrend-HD" tvg-name="MotorTrend HD" tvg-logo="https://assets.livednow.com/logo/MotorTrend-HD.png" group-title="Sports", MotorTrend HD
+http://xg.52sw.top:5000/thetv/motortrend-hd
+
+#EXTINF:-1 tvg-id="MovieMAX" tvg-name="MovieMAX" tvg-logo="https://assets.livednow.com/logo/MovieMAX.png" group-title="Sports", MovieMAX
+http://xg.52sw.top:5000/thetv/moviemax
+
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://assets.livednow.com/logo/MSNBC.png" group-title="Sports", MSNBC
+http://xg.52sw.top:5000/thetv/msnbc
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://assets.livednow.com/logo/MTV.png" group-title="Sports", MTV
+http://xg.52sw.top:5000/thetv/mtv
+
+#EXTINF:-1 tvg-id="Nat-Geo-WILD" tvg-name="Nat Geo WILD" tvg-logo="https://assets.livednow.com/logo/Nat-Geo-WILD.png" group-title="Sports", Nat Geo WILD
+http://xg.52sw.top:5000/thetv/nat-geo-wild
+
+#EXTINF:-1 tvg-id="National-Geographic" tvg-name="National Geographic" tvg-logo="https://assets.livednow.com/logo/National-Geographic.png" group-title="Sports", National Geographic
+http://xg.52sw.top:5000/thetv/national-geographic
+
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="Sports", NBA TV
+http://xg.52sw.top:5000/thetv/nba-tv
+
+#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="Sports", NFL Network
+http://xg.52sw.top:5000/thetv/nfl-network
+
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="Sports", NHL Network
+http://xg.52sw.top:5000/thetv/nhl-network
+
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="Sports", Nick Jr.
+http://xg.52sw.top:5000/thetv/nick-jr
+
+#EXTINF:-1 tvg-id="Nickelodeon-East" tvg-name="Nickelodeon East" tvg-logo="https://assets.livednow.com/logo/Nickelodeon-East.png" group-title="Sports", Nickelodeon East
+http://xg.52sw.top:5000/thetv/nickelodeon-east
+
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://assets.livednow.com/logo/Nicktoons.png" group-title="Sports", Nicktoons
+http://xg.52sw.top:5000/thetv/nicktoons
+
+#EXTINF:-1 tvg-id="Outdoor-Channel" tvg-name="Outdoor Channel" tvg-logo="https://assets.livednow.com/logo/Outdoor-Channel.png" group-title="Sports", Outdoor Channel
+http://xg.52sw.top:5000/thetv/outdoor-channel
+
+#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" tvg-logo="https://assets.livednow.com/logo/OWN.png" group-title="Sports", OWN
+http://xg.52sw.top:5000/thetv/own
+
+#EXTINF:-1 tvg-id="Oxygen-True-Crime" tvg-name="Oxygen True Crime" tvg-logo="https://assets.livednow.com/logo/Oxygen-True-Crime.png" group-title="Sports", Oxygen True Crime
+http://xg.52sw.top:5000/thetv/oxygen-true-crime
+
+#EXTINF:-1 tvg-id="PBS-13-(WNET)-New-York" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://assets.livednow.com/logo/PBS-13-(WNET)-New-York.png" group-title="Sports", PBS 13 (WNET) New York
+http://xg.52sw.top:5000/thetv/pbs-13-wnet-new-york
+
+#EXTINF:-1 tvg-id="ReelzChannel" tvg-name="ReelzChannel" tvg-logo="https://assets.livednow.com/logo/ReelzChannel.png" group-title="Sports", ReelzChannel
+http://xg.52sw.top:5000/thetv/reelzchannel
+
+#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-logo="https://assets.livednow.com/logo/Science.png" group-title="Sports", Science
+http://xg.52sw.top:5000/thetv/science
+
+#EXTINF:-1 tvg-id="Showtime-(E)" tvg-name="Showtime (E)" tvg-logo="https://assets.livednow.com/logo/Showtime-(E).png" group-title="Sports", Showtime (E)
+http://xg.52sw.top:5000/thetv/showtime-e
+
+#EXTINF:-1 tvg-id="SHOWTIME-2" tvg-name="SHOWTIME 2" tvg-logo="https://assets.livednow.com/logo/SHOWTIME-2.png" group-title="Sports", SHOWTIME 2
+http://xg.52sw.top:5000/thetv/showtime-2
+
+#EXTINF:-1 tvg-id="STARZ-East" tvg-name="STARZ East" tvg-logo="https://assets.livednow.com/logo/STARZ-East.png" group-title="Sports", STARZ East
+http://xg.52sw.top:5000/thetv/starz-east
+
+#EXTINF:-1 tvg-id="SundanceTV-HD" tvg-name="SundanceTV HD" tvg-logo="https://assets.livednow.com/logo/SundanceTV-HD.png" group-title="Sports", SundanceTV HD
+http://xg.52sw.top:5000/thetv/sundancetv-hd
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://assets.livednow.com/logo/SYFY.png" group-title="Sports", SYFY
+http://xg.52sw.top:5000/thetv/syfy
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://assets.livednow.com/logo/TBS.png" group-title="Sports", TBS
+http://xg.52sw.top:5000/thetv/tbs
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://assets.livednow.com/logo/TCM.png" group-title="Sports", TCM
+http://xg.52sw.top:5000/thetv/tcm
+
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" tvg-logo="https://assets.livednow.com/logo/TeenNick.png" group-title="Sports", TeenNick
+http://xg.52sw.top:5000/thetv/teennick
+
+#EXTINF:-1 tvg-id="Telemundo-East" tvg-name="Telemundo East" tvg-logo="https://assets.livednow.com/logo/Telemundo-East.png" group-title="Sports", Telemundo East
+http://xg.52sw.top:5000/thetv/telemundo-east
+
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="Sports", Tennis Channel
+http://xg.52sw.top:5000/thetv/tennis-channel
+
+#EXTINF:-1 tvg-id="The-CW-(WPIX-New-York)" tvg-name="The CW (WPIX New York)" tvg-logo="https://assets.livednow.com/logo/The-CW-(WPIX-New-York).png" group-title="Sports", The CW (WPIX New York)
+http://xg.52sw.top:5000/thetv/the-cw
+
+#EXTINF:-1 tvg-id="The-Movie-Channel-East" tvg-name="The Movie Channel East" tvg-logo="https://assets.livednow.com/logo/The-Movie-Channel-East.png" group-title="Sports", The Movie Channel East
+http://xg.52sw.top:5000/thetv/the-movie-channel-east
+
+#EXTINF:-1 tvg-id="The-Weather-Channel" tvg-name="The Weather Channel" tvg-logo="https://assets.livednow.com/logo/The-Weather-Channel.png" group-title="Sports", The Weather Channel
+http://xg.52sw.top:5000/thetv/the-weather-channel
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets.livednow.com/logo/TLC.png" group-title="Sports", TLC
+http://xg.52sw.top:5000/thetv/tlc
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://assets.livednow.com/logo/TNT.png" group-title="Sports", TNT
+http://xg.52sw.top:5000/thetv/tnt
+
+#EXTINF:-1 tvg-id="Travel-Channel" tvg-name="Travel Channel" tvg-logo="https://assets.livednow.com/logo/Travel-Channel.png" group-title="Sports", Travel Channel
+http://xg.52sw.top:5000/thetv/travel-channel
+
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://assets.livednow.com/logo/truTV.png" group-title="Sports", truTV
+http://xg.52sw.top:5000/thetv/trutv
+
+#EXTINF:-1 tvg-id="TV-One-HD" tvg-name="TV One HD" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="Sports", TV One HD
+http://xg.52sw.top:5000/thetv/tv-one-hd
+
+#EXTINF:-1 tvg-id="Universal-Kids" tvg-name="Universal Kids" tvg-logo="https://assets.livednow.com/logo/Universal-Kids.png" group-title="Sports", Universal Kids
+http://xg.52sw.top:5000/thetv/universal-kids
+
+#EXTINF:-1 tvg-id="Univision-East" tvg-name="Univision East" tvg-logo="https://assets.livednow.com/logo/Univision-East.png" group-title="Sports", Univision East
+http://xg.52sw.top:5000/thetv/univision-east
+
+#EXTINF:-1 tvg-id="USA-Network" tvg-name="USA Network" tvg-logo="https://assets.livednow.com/logo/USA-Network.png" group-title="Sports", USA Network
+http://xg.52sw.top:5000/thetv/usa-network
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://assets.livednow.com/logo/VH1.png" group-title="Sports", VH1
+http://xg.52sw.top:5000/thetv/vh1
+
+#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" tvg-logo="https://assets.livednow.com/logo/VICE.png" group-title="Sports", VICE
+http://xg.52sw.top:5000/thetv/vice
+
+#EXTINF:-1 tvg-id="WABC-(New-York)-ABC-East" tvg-name="WABC (New York) ABC East" tvg-logo="https://assets.livednow.com/logo/WABC-(New-York)-ABC-East.png" group-title="Sports", WABC (New York) ABC East
+http://xg.52sw.top:5000/thetv/wabc-new-york-abc-east
+
+#EXTINF:-1 tvg-id="WCBS-(New-York)-CBS-East" tvg-name="WCBS (New York) CBS East" tvg-logo="https://assets.livednow.com/logo/WCBS-(New-York)-CBS-East.png" group-title="Sports", WCBS (New York) CBS East
+http://xg.52sw.top:5000/thetv/wcbs-new-york-cbs-east
+
+#EXTINF:-1 tvg-id="WE-tv" tvg-name="WE tv" tvg-logo="https://assets.livednow.com/logo/WE-tv.png" group-title="Sports", WE tv
+http://xg.52sw.top:5000/thetv/we-tv
+
+#EXTINF:-1 tvg-id="WNBC-(New-York)-NBC-East" tvg-name="WNBC (New York) NBC East" tvg-logo="https://assets.livednow.com/logo/WNBC-(New-York)-NBC-East.png" group-title="Sports", WNBC (New York) NBC East
+http://xg.52sw.top:5000/thetv/wnbc-new-york-nbc-east
+
+#EXTINF:-1 tvg-id="WNYW-(New-York)-FOX-East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://assets.livednow.com/logo/WNYW-(New-York)-FOX-East.png" group-title="Sports", WNYW (New York) FOX East
+http://xg.52sw.top:5000/thetv/wnyw-new-york-fox-east
+
+
+
 
 
 
