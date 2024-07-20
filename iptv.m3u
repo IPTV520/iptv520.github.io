@@ -639,7 +639,7 @@ http://xg.52sw.top:5000/4GTV/283
 http://xg.52sw.top:5000/litv/4GTV-4GTV076
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI 罪案偵查頻道.png" group-title="4GTV[需魔法]",CI 罪案偵查頻道
 http://xg.52sw.top:5000/4GTV/215
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="4GTV", CinemaWorld
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="4GTV[需魔法]", CinemaWorld
 http://xg.52sw.top:5000/4GTV/225
 #EXTINF:-1 tvg-id="Classica 古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica 古典樂.png" group-title="4GTV[需魔法]", Classica 古典樂
 http://xg.52sw.top:5000/litv/4GTV-4GTV059
@@ -717,7 +717,7 @@ http://xg.52sw.top:5000/litv/4GTV-4GTV067
 http://xg.52sw.top:5000/4GTV/284
 #EXTINF:-1 tvg-id="4GTVS 歡樂台" tvg-name="4GTVS 歡樂台" tvg-logo="https://assets.livednow.com/logo/4GTVS 歡樂台.png" group-title="4GTV[需魔法]", 4GTVS 歡樂台
 http://xg.52sw.top:5000/litv/4GTV-4GTV068
-#EXTINF:-1 tvg-id="4GTVS" tvg-name="4GTVS" tvg-logo="https://assets.livednow.com/logo/4GTVS.png" group-title="4GTV", 4GTVS
+#EXTINF:-1 tvg-id="4GTVS" tvg-name="4GTVS" tvg-logo="https://assets.livednow.com/logo/4GTVS.png" group-title="4GTV[需魔法]", 4GTVS
 http://xg.52sw.top:5000/litv/4GTV-4GTV073
 #EXTINF:-1 tvg-id="VOA 美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA 美國之音.png" group-title="4GTV[需魔法]", VOA 美國之音
 http://xg.52sw.top:5000/litv/litv-ftv03
@@ -739,7 +739,7 @@ http://xg.52sw.top:5000/4GTV/230
 http://xg.52sw.top:5000/litv/4GTV-4GTV109
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="4GTV[需魔法]", 中天新聞台
 http://xg.52sw.top:5000/litv/4GTV-4GTV009
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="4GTV", 中視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="4GTV[需魔法]", 中視
 http://xg.52sw.top:5000/litv/4GTV-4GTV040
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="4GTV[需魔法]", 中視菁采台
 http://xg.52sw.top:5000/litv/4GTV-4GTV064
@@ -759,7 +759,7 @@ http://xg.52sw.top:5000/litv/4GTV-4GTV056
 http://xg.52sw.top:5000/litv/4GTV-4GTV051
 #EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="4GTV[需魔法]", 台灣戲劇台
 http://xg.52sw.top:5000/litv/litv-longturn22
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="4GTV", 民視
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="4GTV[需魔法]", 民視
 http://xg.52sw.top:5000/litv/4GTV-4GTV155
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="4GTV[需魔法]", 民視台灣台
 http://xg.52sw.top:5000/litv/4GTV-4GTV001
