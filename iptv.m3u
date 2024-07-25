@@ -624,6 +624,71 @@ https://mytv.btjson.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f
 
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", myTV SUPER 直播足球6台
 https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="奧運新聞台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="TVB", 奧運新聞台
+https://mytv.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-1" tvg-name="奧運801台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-1.png" group-title="TVB", 奧運801台
+https://mytv.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-2" tvg-name="奧運802台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-2.png" group-title="TVB", 奧運802台
+https://mytv.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-3" tvg-name="奧運803台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-3.png" group-title="TVB", 奧運803台
+https://mytv.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-4" tvg-name="奧運804台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-4.png" group-title="TVB", 奧運804台
+https://mytv.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-5" tvg-name="奧運805台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-5.png" group-title="TVB", 奧運805台
+https://mytv.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-6" tvg-name="奧運806台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-6.png" group-title="TVB", 奧運806台
+https://mytv.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-7" tvg-name="奧運807台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-7.png" group-title="TVB", 奧運807台
+https://mytv.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-8" tvg-name="奧運808台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-8.png" group-title="TVB", 奧運808台
+https://mytv.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-9" tvg-name="奧運809台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-9.png" group-title="TVB", 奧運809台
+https://mytv.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-10" tvg-name="奧運810台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-10.png" group-title="TVB", 奧運810台
+https://mytv.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-11" tvg-name="奧運811台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-11.png" group-title="TVB", 奧運811台
+https://mytv.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-12" tvg-name="奧運812台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-12.png" group-title="TVB", 奧運812台
+https://mytv.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-13" tvg-name="奧運813台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-13.png" group-title="TVB", 奧運813台
+https://mytv.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-14" tvg-name="奧運814台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-14.png" group-title="TVB", 奧運814台
+https://mytv.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-15" tvg-name="奧運815台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-15.png" group-title="TVB", 奧運815台
+https://mytv.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-16" tvg-name="奧運816台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-16.png" group-title="TVB", 奧運816台
+https://mytv.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", 互動窗 1
+https://mytv.btjson.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB", 互動窗 2
+https://mytv.btjson.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://assets.livednow.com/logo/緯來體育.png" group-title="TVB", 緯來體育
+https://mytv.btjson.us.kg/stream/tvb/null-28/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+
+
+
+
 
 
 
