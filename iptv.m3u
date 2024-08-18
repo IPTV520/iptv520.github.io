@@ -510,104 +510,68 @@ http://www.mytvsuper.us.kg/live.php?id=cclm
 http://www.mytvsuper.us.kg/live.php?id=cmam
 #EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="Mytvsuper TVB", 中國電影頻道
 http://www.mytvsuper.us.kg/live.php?id=cmc
-
-
-
-
 #EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="Mytvsuper TVB", Animax
 http://www.mytvsuper.us.kg/live.php?id=animax
-
 #EXTINF:-1 tvg-id="Arirang-HK" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="Mytvsuper TVB", Arirang TV
 http://www.mytvsuper.us.kg/live.php?id=arirangtv
-
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="Mytvsuper TVB", AXN
 http://www.mytvsuper.us.kg/live.php?id=axn
-
-
 #EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="中國環球電視網 記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="Mytvsuper TVB", CGTN (中國環球電視網)英語頻道
 http://www.mytvsuper.us.kg/live.php?id=cgtn-1
-
 #EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="中國環球電視網 英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="Mytvsuper TVB", CGTN (中國環球電視網)記錄頻道
 http://www.mytvsuper.us.kg/live.php?id=cgtn
-
 #EXTINF:-1 tvg-id="NHK-World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="Mytvsuper TVB", NHK World-Japan
 http://www.mytvsuper.us.kg/live.php?id=nhkworldjapan
-
 #EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="Mytvsuper TVB", Nick Jr.
 http://www.mytvsuper.us.kg/live.php?id=nickjr
-
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="Mytvsuper TVB", Nickelodeon
 http://www.mytvsuper.us.kg/live.php?id=nickelodeon
-
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="Mytvsuper TVB", PopC
 http://www.mytvsuper.us.kg/live.php?id=popc
-
 #EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="Mytvsuper TVB", ROCK Action
 http://www.mytvsuper.us.kg/live.php?id=rockaction
-
 #EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="Mytvsuper TVB", ROCK 綜藝娛樂
 http://www.mytvsuper.us.kg/live.php?id=rock
-
 #EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="Mytvsuper TVB", SUPER Kids
 http://www.mytvsuper.us.kg/live.php?id=superkidschannel
-
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="Mytvsuper TVB", Thrill
 http://www.mytvsuper.us.kg/live.php?id=thrill
-
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="Mytvsuper TVB", tvN
 http://www.mytvsuper.us.kg/live.php?id=tvn
-
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="Mytvsuper TVB", ZooMoo
 http://www.mytvsuper.us.kg/live.php?id=zoomoo
-
 #EXTINF:-1 tvg-id="中央電視台综合頻道-港澳版" tvg-name="中央電視台综合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台综合頻道-港澳版.png" group-title="Mytvsuper TVB", 中央電視台综合頻道 (港澳版)
 http://www.mytvsuper.us.kg/live.php?id=cctvintegratedchannel
-
 #EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="Mytvsuper TVB", 半島電視台英語頻道
 http://www.mytvsuper.us.kg/live.php?id=cjaz
-
 #EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="Mytvsuper TVB", DW
 http://www.mytvsuper.us.kg/live.php?id=dw
-
 #EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="Mytvsuper TVB", FashionBox
 http://www.mytvsuper.us.kg/live.php?id=fashionbox
-
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="Mytvsuper TVB", France 24
 http://www.mytvsuper.us.kg/live.php?id=france24
-
 #EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="Mytvsuper TVB", Global Trekker
 http://www.mytvsuper.us.kg/live.php?id=globaltrekker
-
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="Mytvsuper TVB", KIX
 http://www.mytvsuper.us.kg/live.php?id=kix
-
 #EXTINF:-1 tvg-id="Love-Nature-HD" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="Mytvsuper TVB", Love Nature HD
 http://www.mytvsuper.us.kg/live.php?id=lovenaturehd
-
 #EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="Mytvsuper TVB", Love Nature 4K
 http://www.mytvsuper.us.kg/live.php?id=lovenature4k
-
 #EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="Mytvsuper TVB", Mezzo Live HD
 http://www.mytvsuper.us.kg/live.php?id=mezzolivehd
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Mytvsuper TVB", myTV SUPER FREE
 http://www.mytvsuper.us.kg/live.php?id=mytvsuperfree
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Mytvsuper TVB", 互動窗 1
 http://www.mytvsuper.us.kg/live.php?id=1
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Mytvsuper TVB", 互動窗 2
 http://www.mytvsuper.us.kg/live.php?id=2
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Mytvsuper TVB", myTV SUPER 直播足球3台
 http://www.mytvsuper.us.kg/live.php?id=mytvsuper3
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Mytvsuper TVB", myTV SUPER 直播足球4台
 http://www.mytvsuper.us.kg/live.php?id=mytvsuper4
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Mytvsuper TVB", myTV SUPER 直播足球5台
 http://www.mytvsuper.us.kg/live.php?id=mytvsuper5
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Mytvsuper TVB", myTV SUPER 直播足球6台
 http://www.mytvsuper.us.kg/live.php?id=mytvsuper6
 
