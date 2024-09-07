@@ -341,7 +341,7 @@ http://192.168.1.108:5051/stream/4gtv/null-17/master.m3u8
 http://192.168.1.108:5051/stream/mytv/tvbplus/master.m3u8
 
 #EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="自推", myTV SUPER 18台
-http://192.168.1.108:5051/stream/mytv/mytvsuper18/master.m3u8
+http://100.123.122.52:5051/stream/mytv/mytvsuper18/master.m3u8
 
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="自推", myTV SUPER FREE
 http://192.168.1.108:5051/stream/mytv/null-3/master.m3u8
