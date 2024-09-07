@@ -300,6 +300,95 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="IHOT",求索生活
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 
+#自推
+#EXTINF:1 group-title="4GTV" tvg-id="4gtv/tvbs" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] TVBS 新聞台
+http://192.168.1.108:5051/stream/4gtv/tvbs/master.m3u8
+
+#EXTINF:2 group-title="4GTV" tvg-id="4gtv/voa" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] VOA 美國之音
+http://192.168.1.108:5051/stream/4gtv/voa/master.m3u8
+
+#EXTINF:3 group-title="4GTV" tvg-id="4gtv/null-10" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 三立新聞
+http://192.168.1.108:5051/stream/4gtv/null-10/master.m3u8
+
+#EXTINF:4 group-title="4GTV" tvg-id="4gtv/null-4" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 中天亞洲台
+http://192.168.1.108:5051/stream/4gtv/null-4/master.m3u8
+
+#EXTINF:5 group-title="4GTV" tvg-id="4gtv/null-3" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 中天新聞台
+http://192.168.1.108:5051/stream/4gtv/null-3/master.m3u8
+
+#EXTINF:6 group-title="4GTV" tvg-id="4gtv/null-2" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 中視新聞台
+http://192.168.1.108:5051/stream/4gtv/null-2/master.m3u8
+
+#EXTINF:7 group-title="4GTV" tvg-id="4gtv/null-13" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 台視新聞台
+http://192.168.1.108:5051/stream/4gtv/null-13/master.m3u8
+
+#EXTINF:8 group-title="4GTV" tvg-id="4gtv/null-8" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 寰宇新聞台
+http://192.168.1.108:5051/stream/4gtv/null-8/master.m3u8
+
+#EXTINF:9 group-title="4GTV" tvg-id="4gtv/null-15" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 東森新聞
+http://192.168.1.108:5051/stream/4gtv/null-15/master.m3u8
+
+#EXTINF:10 group-title="4GTV" tvg-id="4gtv/null-16" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 東森財經新聞
+http://192.168.1.108:5051/stream/4gtv/null-16/master.m3u8
+
+#EXTINF:11 group-title="4GTV" tvg-id="4gtv/null-6" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 華視新聞
+http://192.168.1.108:5051/stream/4gtv/null-6/master.m3u8
+
+#EXTINF:12 group-title="4GTV" tvg-id="4gtv/null-17" tvg-logo="" provider="4GTV" provider-logo="" provider-type="iptv",[4GTV] 非凡新聞台
+http://192.168.1.108:5051/stream/4gtv/null-17/master.m3u8
+
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="自推", TVB Plus
+http://192.168.1.108:5051/stream/mytv/tvbplus/master.m3u8
+
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="自推", myTV SUPER 18台
+http://192.168.1.108:5051/stream/mytv/mytvsuper18/master.m3u8
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="自推", myTV SUPER FREE
+http://192.168.1.108:5051/stream/mytv/null-3/master.m3u8
+
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="自推", 亞洲新聞台
+http://192.168.1.108:5051/stream/mytv/null-23/master.m3u8
+
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="自推", 千禧經典台
+http://192.168.1.108:5051/stream/mytv/null-5/master.m3u8
+
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="自推", 天映經典頻道
+http://192.168.1.108:5051/stream/mytv/null-13/master.m3u8
+
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="自推", 娛樂新聞台
+http://192.168.1.108:5051/stream/mytv/null-10/master.m3u8
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="自推", 明珠台
+http://192.168.1.108:5051/stream/mytv/null-1/master.m3u8
+
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="自推", 無線新聞台
+http://192.168.1.108:5051/stream/mytv/null/master.m3u8
+
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="自推", 無線衛星亞洲台
+http://192.168.1.108:5051/stream/mytv/null-15/master.m3u8
+
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="自推", 無線衛星新聞台
+http://192.168.1.108:5051/stream/mytv/null-22/master.m3u8
+
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="自推", 粵語片台
+http://192.168.1.108:5051/stream/mytv/null-7/master.m3u8
+
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="自推", 美亞電影台
+http://192.168.1.108:5051/stream/mytv/null-12/master.m3u8
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="自推", 翡翠台 4K
+http://192.168.1.108:5051/stream/mytv/4k/master.m3u8
+
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="自推", 鳳凰衛視中文台
+http://192.168.1.108:5051/stream/mytv/null-18/master.m3u8
+
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="自推", 鳳凰衛視資訊台
+http://192.168.1.108:5051/stream/mytv/null-19/master.m3u8
+
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="自推", 鳳凰衛視香港台
+
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="自推", 黃金翡翠台
+http://192.168.1.108:5051/stream/mytv/null-4/master.m3u8
 
 
 #广东
