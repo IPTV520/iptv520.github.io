@@ -412,12 +412,6 @@ http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsq
 #EXTINF:-1 tvg-id="18" tvg-name="18" tvg-logo="https://assets.livednow.com/logo/18.png" group-title="港湾", 18台
 http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
 
-#EXTINF:-1 tvg-id="18" tvg-name="18" tvg-logo="https://assets.livednow.com/logo/18.png" group-title="港湾", 18台
-http://220.249.51.134:10006/youx18/TV/hls.m3u8
-
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="港湾", 無線新聞台
-http://223.244.26.190:8082/tvb/TV/hls.m3u8
-
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="港湾", TVB Plus
 http://223.244.26.190:8082/j2/TV/hls.m3u8
 
@@ -427,8 +421,7 @@ http://39.101.75.133:80/hoy77/TV/hls.m3u8
 #EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://assets.livednow.com/logo/HOY 78.png" group-title="港湾", HOY 78
 http://39.101.75.133:80/hoy78/TV/hls.m3u8
 
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="港湾", 美亞電影台
-http://39.101.75.133:80/美亚电影/TV/hls.m3u8
+
 
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="港湾", Thrill
 http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv
@@ -437,16 +430,16 @@ http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqf
 http://223.244.26.190:8082/now/TV/hls.m3u8
 
 #EXTINF:-1,tvg-id="Now 星影" tvg-name="Now 星影" tvg-logo="https://epg.112114.eu.org/logo/Now 星影.png" group-title="港湾",Now 星影备
-http://47.108.227.19:9080/now星影.盗源者死全家/易發TV/hls.m3u8
+http://47.108.227.19:9080/now/TV/hls.m3u8
 
 #EXTINF:-1,tvg-id="Now 爆谷" tvg-name="Now 爆谷" tvg-logo="https://epg.112114.eu.org/logo/Now 爆谷.png" group-title="港湾",Now 爆谷
-http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
+http://223.244.26.190:8082/now/TV/hls.m3u8
 
 #EXTINF:-1,tvg-id="Now 爆谷" tvg-name="Now 爆谷" tvg-logo="https://epg.112114.eu.org/logo/Now 爆谷.png" group-title="港湾",Now 爆谷备
-http://47.108.227.19:9080/now包谷.盗源者死全家/易發TV/hls.m3u8
+http://47.108.227.19:9080/now/TV/hls.m3u8
 
 #EXTINF:-1,tvg-id="Now 新闻" tvg-name="Now 新闻" tvg-logo="https://epg.112114.eu.org/logo/Now 新闻.png" group-title="港湾",Now 新闻
-http://139.196.45.155:80/now新闻-盗源者死全家/易發TV/hls.m3u8
+http://139.196.45.155:80/now/TV/hls.m3u8
 
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="港湾", 非凡新聞台
 http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
