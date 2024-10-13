@@ -413,28 +413,28 @@ http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsq
 http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
 
 #EXTINF:-1 tvg-id="18" tvg-name="18" tvg-logo="https://assets.livednow.com/logo/18.png" group-title="港湾", 18台
-http://220.249.51.134:10006/youx18-盗源者死全家/易發TV/hls.m3u8
+http://220.249.51.134:10006/youx18/TV/hls.m3u8
 
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="港湾", 無線新聞台
-http://223.244.26.190:8082/tvb新闻.盗源者死全家/易發TV/hls.m3u8
+http://223.244.26.190:8082/tvb/TV/hls.m3u8
 
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="港湾", TVB Plus
-http://223.244.26.190:8082/j2.盗源者死全家/易發TV/hls.m3u8
+http://223.244.26.190:8082/j2/TV/hls.m3u8
 
 #EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://assets.livednow.com/logo/HOY 77.png" group-title="港湾", HOY 77
-http://39.101.75.133:80/hoy77-盗源者死全家/易發TV/hls.m3u8
+http://39.101.75.133:80/hoy77/TV/hls.m3u8
 
 #EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://assets.livednow.com/logo/HOY 78.png" group-title="港湾", HOY 78
-http://39.101.75.133:80/hoy78-盗源者死全家/易發TV/hls.m3u8
+http://39.101.75.133:80/hoy78/TV/hls.m3u8
 
 #EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="港湾", 美亞電影台
-http://39.101.75.133:80/美亚电影-盗源者死全家/易發TV/hls.m3u8
+http://39.101.75.133:80/美亚电影/TV/hls.m3u8
 
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="港湾", Thrill
 http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv
 
 #EXTINF:-1,tvg-id="Now 星影" tvg-name="Now 星影" tvg-logo="https://epg.112114.eu.org/logo/Now 星影.png" group-title="港湾",Now 星影
-http://223.244.26.190:8082/now星影.盗源者死全家/易發TV/hls.m3u8
+http://223.244.26.190:8082/now/TV/hls.m3u8
 
 #EXTINF:-1,tvg-id="Now 星影" tvg-name="Now 星影" tvg-logo="https://epg.112114.eu.org/logo/Now 星影.png" group-title="港湾",Now 星影备
 http://47.108.227.19:9080/now星影.盗源者死全家/易發TV/hls.m3u8
