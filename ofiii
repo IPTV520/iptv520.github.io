@@ -1,0 +1,18 @@
+# NAME: wanwan
+# AUTHOR: IPTV520
+# REPO: https://github.com/IPTV520/
+# UPDATED: 2025-02-13 
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
+DOMAIN,hls-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,ott.hinet.net
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+DOMAIN-KEYWORD,ip.skk.moe
+DOMAIN-KEYWORD,hami
+DOMAIN-KEYWORD,4gtv.tv
+DOMAIN-KEYWORD,cdn.hinet.net
+DOMAIN-KEYWORD,akamaized.net
+DOMAIN-KEYWORD,ofiii.com
